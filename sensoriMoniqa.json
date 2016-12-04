@@ -1,0 +1,5138 @@
+[
+{
+pk_device: "1",
+fk_devicetype: "1",
+name: "Preneste",
+lat: "41.886017",
+lon: "12.541614",
+fk_region: "7"
+},
+{
+pk_device: "2",
+fk_devicetype: "2",
+name: "Frosinone Mazzini",
+lat: "41.639668",
+lon: "13.348913",
+fk_region: "7"
+},
+{
+pk_device: "3",
+fk_devicetype: "2",
+name: "Francia",
+lat: "41.94745",
+lon: "12.469588",
+fk_region: "7"
+},
+{
+pk_device: "4",
+fk_devicetype: "2",
+name: "Magna Grecia",
+lat: "41.883064",
+lon: "12.508939",
+fk_region: "7"
+},
+{
+pk_device: "5",
+fk_devicetype: "1",
+name: "Cinecitta",
+lat: "41.85772",
+lon: "12.568665",
+fk_region: "7"
+},
+{
+pk_device: "6",
+fk_devicetype: "3",
+name: "Colleferro-Oberdan",
+lat: "41.73084",
+lon: "13.00435",
+fk_region: "7"
+},
+{
+pk_device: "7",
+fk_devicetype: "3",
+name: "Colleferro-Europa",
+lat: "41.72501",
+lon: "13.009575",
+fk_region: "7"
+},
+{
+pk_device: "8",
+fk_devicetype: "4",
+name: "Allumiere",
+lat: "42.15774",
+lon: "11.908744",
+fk_region: "7"
+},
+{
+pk_device: "9",
+fk_devicetype: "1",
+name: "Civitavecchia",
+lat: "42.09163",
+lon: "11.802466",
+fk_region: "7"
+},
+{
+pk_device: "10",
+fk_devicetype: "2",
+name: "Civ. Via Roma",
+lat: "42.094147",
+lon: "11.795509",
+fk_region: "7"
+},
+{
+pk_device: "11",
+fk_devicetype: "2",
+name: "Rieti 1",
+lat: "42.404095",
+lon: "12.858224",
+fk_region: "7"
+},
+{
+pk_device: "12",
+fk_devicetype: "2",
+name: "Civ. Via Morandi",
+lat: "42.086803",
+lon: "11.806498",
+fk_region: "7"
+},
+{
+pk_device: "13",
+fk_devicetype: "5",
+name: "Guidonia",
+lat: "41.995678",
+lon: "12.726371",
+fk_region: "7"
+},
+{
+pk_device: "14",
+fk_devicetype: "2",
+name: "Via Tasso",
+lat: "41.464024",
+lon: "12.913039",
+fk_region: "7"
+},
+{
+pk_device: "15",
+fk_devicetype: "2",
+name: "Civ. Villa Albani",
+lat: "42.09936",
+lon: "11.798061",
+fk_region: "7"
+},
+{
+pk_device: "16",
+fk_devicetype: "1",
+name: "Aprilia 2",
+lat: "41.595345",
+lon: "12.653581",
+fk_region: "7"
+},
+{
+pk_device: "17",
+fk_devicetype: "2",
+name: "Ceccano",
+lat: "41.57",
+lon: "13.33719",
+fk_region: "7"
+},
+{
+pk_device: "18",
+fk_devicetype: "1",
+name: "Anagni",
+lat: "41.75",
+lon: "13.149685",
+fk_region: "7"
+},
+{
+pk_device: "19",
+fk_devicetype: "2",
+name: "Ferentino",
+lat: "41.69",
+lon: "13.250411",
+fk_region: "7"
+},
+{
+pk_device: "20",
+fk_devicetype: "1",
+name: "Civita Castellana 2",
+lat: "42.289154",
+lon: "12.414958",
+fk_region: "7"
+},
+{
+pk_device: "21",
+fk_devicetype: "1",
+name: "Alatri",
+lat: "41.73",
+lon: "13.338333",
+fk_region: "7"
+},
+{
+pk_device: "22",
+fk_devicetype: "2",
+name: "Viterbo",
+lat: "42.42206",
+lon: "12.109125",
+fk_region: "7"
+},
+{
+pk_device: "23",
+fk_devicetype: "1",
+name: "Villa Ada",
+lat: "41.932873",
+lon: "12.506971",
+fk_region: "7"
+},
+{
+pk_device: "24",
+fk_devicetype: "4",
+name: "Fontechiari",
+lat: "41.67",
+lon: "13.674472",
+fk_region: "7"
+},
+{
+pk_device: "25",
+fk_devicetype: "4",
+name: "Leonessa",
+lat: "42.572594",
+lon: "12.961982",
+fk_region: "7"
+},
+{
+pk_device: "26",
+fk_devicetype: "4",
+name: "Castel di Guido",
+lat: "41.88944",
+lon: "12.2663",
+fk_region: "7"
+},
+{
+pk_device: "27",
+fk_devicetype: "6",
+name: "Cavaliere",
+lat: "41.929382",
+lon: "12.658363",
+fk_region: "7"
+},
+{
+pk_device: "28",
+fk_devicetype: "2",
+name: "Fermi",
+lat: "41.864193",
+lon: "12.469531",
+fk_region: "7"
+},
+{
+pk_device: "29",
+fk_devicetype: "2",
+name: "Ciampino",
+lat: "41.79788",
+lon: "12.607033",
+fk_region: "7"
+},
+{
+pk_device: "30",
+fk_devicetype: "2",
+name: "Latina-Scalo",
+lat: "41.53143",
+lon: "12.946064",
+fk_region: "7"
+},
+{
+pk_device: "31",
+fk_devicetype: "1",
+name: "Cipro",
+lat: "41.906357",
+lon: "12.447596",
+fk_region: "7"
+},
+{
+pk_device: "32",
+fk_devicetype: "1",
+name: "Bufalotta",
+lat: "41.947647",
+lon: "12.533682",
+fk_region: "7"
+},
+{
+pk_device: "33",
+fk_devicetype: "2",
+name: "Tiburtina",
+lat: "41.910255",
+lon: "12.54887",
+fk_region: "7"
+},
+{
+pk_device: "34",
+fk_devicetype: "2",
+name: "Cassino",
+lat: "41.49",
+lon: "13.83069",
+fk_region: "7"
+},
+{
+pk_device: "35",
+fk_devicetype: "4",
+name: "Acquapendente",
+lat: "42.73665",
+lon: "11.876578",
+fk_region: "7"
+},
+{
+pk_device: "36",
+fk_devicetype: "6",
+name: "Malagrotta",
+lat: "41.874893",
+lon: "12.345598",
+fk_region: "7"
+},
+{
+pk_device: "37",
+fk_devicetype: "1",
+name: "Arenula",
+lat: "41.89402",
+lon: "12.475368",
+fk_region: "7"
+},
+{
+pk_device: "38",
+fk_devicetype: "1",
+name: "Gaeta",
+lat: "41.2231",
+lon: "13.5703",
+fk_region: "7"
+},
+{
+pk_device: "39",
+fk_devicetype: "2",
+name: "Frosinone Scalo",
+lat: "41.62",
+lon: "13.33081",
+fk_region: "7"
+},
+{
+pk_device: "40",
+fk_devicetype: "2",
+name: "Viale De Chirico",
+lat: "41.451107",
+lon: "12.89288",
+fk_region: "7"
+},
+{
+pk_device: "41",
+fk_devicetype: "7",
+name: "Civ. Porto",
+lat: "42.097054",
+lon: "11.788354",
+fk_region: "7"
+},
+{
+pk_device: "42",
+fk_devicetype: "8",
+name: "FI-Bassi",
+lat: "43.776836",
+lon: "11.199821",
+fk_region: "16"
+},
+{
+pk_device: "43",
+fk_devicetype: "8",
+name: "FI-Boboli",
+lat: "43.76234",
+lon: "11.24848",
+fk_region: "16"
+},
+{
+pk_device: "44",
+fk_devicetype: "2",
+name: "FI-Gramsci",
+lat: "43.774605",
+lon: "11.27058",
+fk_region: "16"
+},
+{
+pk_device: "45",
+fk_devicetype: "2",
+name: "FI-Mosse",
+lat: "43.782993",
+lon: "11.233773",
+fk_region: "16"
+},
+{
+pk_device: "46",
+fk_devicetype: "9",
+name: "FI-Settignano",
+lat: "43.78624",
+lon: "11.327241",
+fk_region: "16"
+},
+{
+pk_device: "47",
+fk_devicetype: "8",
+name: "FI-Scandicci",
+lat: "43.764027",
+lon: "11.168152",
+fk_region: "16"
+},
+{
+pk_device: "48",
+fk_devicetype: "8",
+name: "FI-Signa",
+lat: "43.78908",
+lon: "11.097018",
+fk_region: "16"
+},
+{
+pk_device: "49",
+fk_devicetype: "9",
+name: "AR-Casa-Stabbi",
+lat: "43.39348",
+lon: "11.54354",
+fk_region: "16"
+},
+{
+pk_device: "50",
+fk_devicetype: "10",
+name: "PI-Montecerboli",
+lat: "43.248394",
+lon: "10.879565",
+fk_region: "16"
+},
+{
+pk_device: "51",
+fk_devicetype: "8",
+name: "SI-Poggibonsi",
+lat: "43.471718",
+lon: "11.145881",
+fk_region: "16"
+},
+{
+pk_device: "52",
+fk_devicetype: "2",
+name: "SI-Bracci",
+lat: "43.336906",
+lon: "11.324942",
+fk_region: "16"
+},
+{
+pk_device: "53",
+fk_devicetype: "9",
+name: "GR-Maremma",
+lat: "42.71919",
+lon: "11.00003",
+fk_region: "16"
+},
+{
+pk_device: "54",
+fk_devicetype: "8",
+name: "GR-Urss",
+lat: "42.766937",
+lon: "11.118173",
+fk_region: "16"
+},
+{
+pk_device: "55",
+fk_devicetype: "8",
+name: "LI-Cappiello",
+lat: "43.518555",
+lon: "10.32094",
+fk_region: "16"
+},
+{
+pk_device: "56",
+fk_devicetype: "2",
+name: "LI-Carducci",
+lat: "43.553444",
+lon: "10.326316",
+fk_region: "16"
+},
+{
+pk_device: "57",
+fk_devicetype: "8",
+name: "LI-Lapira",
+lat: "43.566902",
+lon: "10.329803",
+fk_region: "16"
+},
+{
+pk_device: "58",
+fk_devicetype: "11",
+name: "LI-Cotone",
+lat: "43.402607",
+lon: "10.440548",
+fk_region: "16"
+},
+{
+pk_device: "59",
+fk_devicetype: "8",
+name: "LI-Piombino-Parco-VIII-Marzo",
+lat: "42.92774",
+lon: "10.531191",
+fk_region: "16"
+},
+{
+pk_device: "60",
+fk_devicetype: "8",
+name: "LU-Viareggio",
+lat: "43.868572",
+lon: "10.242654",
+fk_region: "16"
+},
+{
+pk_device: "61",
+fk_devicetype: "8",
+name: "MS-Colombarotto",
+lat: "44.022152",
+lon: "10.11827",
+fk_region: "16"
+},
+{
+pk_device: "62",
+fk_devicetype: "9",
+name: "PT-Montale",
+lat: "43.93461",
+lon: "11.018376",
+fk_region: "16"
+},
+{
+pk_device: "63",
+fk_devicetype: "8",
+name: "PS-Signorelli",
+lat: "43.93998",
+lon: "10.901591",
+fk_region: "16"
+},
+{
+pk_device: "64",
+fk_devicetype: "2",
+name: "PO-Ferrucci",
+lat: "43.859554",
+lon: "11.119101",
+fk_region: "16"
+},
+{
+pk_device: "65",
+fk_devicetype: "8",
+name: "PO-Roma",
+lat: "43.849083",
+lon: "11.07546",
+fk_region: "16"
+},
+{
+pk_device: "66",
+fk_devicetype: "8",
+name: "AR-Acropoli",
+lat: "43.456238",
+lon: "11.900071",
+fk_region: "16"
+},
+{
+pk_device: "67",
+fk_devicetype: "2",
+name: "AR-Repubblica",
+lat: "43.460945",
+lon: "11.876133",
+fk_region: "16"
+},
+{
+pk_device: "68",
+fk_devicetype: "8",
+name: "LU-Capannori",
+lat: "43.83915",
+lon: "10.57278",
+fk_region: "16"
+},
+{
+pk_device: "69",
+fk_devicetype: "9",
+name: "LU-Carignano",
+lat: "43.861694",
+lon: "10.463971",
+fk_region: "16"
+},
+{
+pk_device: "70",
+fk_devicetype: "2",
+name: "Lu-Micheletto",
+lat: "43.84215",
+lon: "10.510601",
+fk_region: "16"
+},
+{
+pk_device: "71",
+fk_devicetype: "2",
+name: "PI-Borghetto",
+lat: "43.71277",
+lon: "10.409869",
+fk_region: "16"
+},
+{
+pk_device: "72",
+fk_devicetype: "8",
+name: "PI-Passi",
+lat: "43.737896",
+lon: "10.401032",
+fk_region: "16"
+},
+{
+pk_device: "73",
+fk_devicetype: "10",
+name: "PI-Santa-Croce-Coop",
+lat: "43.71574",
+lon: "10.77778",
+fk_region: "16"
+},
+{
+pk_device: "74",
+fk_devicetype: "8",
+name: "FI-Pontassieve",
+lat: "43.775803",
+lon: "11.431271",
+fk_region: "16"
+},
+{
+pk_device: "75",
+fk_devicetype: "8",
+name: "LI-Poggio-San-Rocco",
+lat: "43.403294",
+lon: "10.475367",
+fk_region: "16"
+},
+{
+pk_device: "76",
+fk_devicetype: "8",
+name: "MS-Galvani",
+lat: "44.03745",
+lon: "10.13371",
+fk_region: "16"
+},
+{
+pk_device: "77",
+fk_devicetype: "8",
+name: "PI-Pontedera",
+lat: "43.661327",
+lon: "10.636983",
+fk_region: "16"
+},
+{
+pk_device: "78",
+fk_devicetype: "2",
+name: "Piazza Garibaldi - Busalla",
+lat: "44.56936",
+lon: "8.946503",
+fk_region: "8"
+},
+{
+pk_device: "79",
+fk_devicetype: "12",
+name: "Sarissola - Busalla",
+lat: "44.574986",
+lon: "8.956473",
+fk_region: "8"
+},
+{
+pk_device: "80",
+fk_devicetype: "12",
+name: "Campora - Campomorone",
+lat: "44.50588",
+lon: "8.894368",
+fk_region: "8"
+},
+{
+pk_device: "81",
+fk_devicetype: "13",
+name: "Via Assarotti - Chiavari",
+lat: "44.31491",
+lon: "9.323988",
+fk_region: "8"
+},
+{
+pk_device: "82",
+fk_devicetype: "14",
+name: "Via Gioventu - Cogoleto",
+lat: "44.391212",
+lon: "8.642797",
+fk_region: "8"
+},
+{
+pk_device: "83",
+fk_devicetype: "2",
+name: "Corso Buenos Aires - Genova",
+lat: "44.40336",
+lon: "8.949622",
+fk_region: "8"
+},
+{
+pk_device: "84",
+fk_devicetype: "15",
+name: "Multedo - Pegli - Genova",
+lat: "44.426167",
+lon: "8.830829",
+fk_region: "8"
+},
+{
+pk_device: "85",
+fk_devicetype: "8",
+name: "Parco Acquasola - Genova",
+lat: "44.408604",
+lon: "8.939961",
+fk_region: "8"
+},
+{
+pk_device: "86",
+fk_devicetype: "2",
+name: "Piazza Masnata - Genova",
+lat: "44.41801",
+lon: "8.885852",
+fk_region: "8"
+},
+{
+pk_device: "87",
+fk_devicetype: "8",
+name: "Quarto - Genova",
+lat: "44.388752",
+lon: "8.995828",
+fk_region: "8"
+},
+{
+pk_device: "88",
+fk_devicetype: "2",
+name: "Via Buozzi - Genova",
+lat: "44.414177",
+lon: "8.912849",
+fk_region: "8"
+},
+{
+pk_device: "89",
+fk_devicetype: "2",
+name: "Via Pastorino - Bolzaneto - Genova",
+lat: "44.460236",
+lon: "8.902083",
+fk_region: "8"
+},
+{
+pk_device: "90",
+fk_devicetype: "2",
+name: "Via Puccini - Sestri P. - Genova",
+lat: "44.42248",
+lon: "8.848642",
+fk_region: "8"
+},
+{
+pk_device: "91",
+fk_devicetype: "9",
+name: "Passo Dei Giovi",
+lat: "44.54997",
+lon: "8.95007",
+fk_region: "8"
+},
+{
+pk_device: "92",
+fk_devicetype: "9",
+name: "Propata",
+lat: "44.56499",
+lon: "9.186097",
+fk_region: "8"
+},
+{
+pk_device: "93",
+fk_devicetype: "8",
+name: "Bolano",
+lat: "44.186863",
+lon: "9.894326",
+fk_region: "8"
+},
+{
+pk_device: "94",
+fk_devicetype: "14",
+name: "Chiappa - La Spezia",
+lat: "44.124317",
+lon: "9.794985",
+fk_region: "8"
+},
+{
+pk_device: "95",
+fk_devicetype: "2",
+name: "Chiodo-Amendola - La Spezia",
+lat: "44.10392",
+lon: "9.816938",
+fk_region: "8"
+},
+{
+pk_device: "96",
+fk_devicetype: "15",
+name: "Fossamastra - La Spezia",
+lat: "44.10303",
+lon: "9.858503",
+fk_region: "8"
+},
+{
+pk_device: "97",
+fk_devicetype: "8",
+name: "Maggiolina - La Spezia",
+lat: "44.11705",
+lon: "9.841917",
+fk_region: "8"
+},
+{
+pk_device: "98",
+fk_devicetype: "2",
+name: "Piazza Saint Bon - La Spezia",
+lat: "44.11",
+lon: "9.816077",
+fk_region: "8"
+},
+{
+pk_device: "99",
+fk_devicetype: "2",
+name: "San Cipriano - Liberta - La Spezia",
+lat: "44.110683",
+lon: "9.833895",
+fk_region: "8"
+},
+{
+pk_device: "100",
+fk_devicetype: "8",
+name: "San Venerio - La Spezia",
+lat: "44.127743",
+lon: "9.863664",
+fk_region: "8"
+},
+{
+pk_device: "101",
+fk_devicetype: "8",
+name: "Le Grazie - Portovenere",
+lat: "44.06422",
+lon: "9.839814",
+fk_region: "8"
+},
+{
+pk_device: "102",
+fk_devicetype: "13",
+name: "Santo Stefano Magra",
+lat: "44.146507",
+lon: "9.908867",
+fk_region: "8"
+},
+{
+pk_device: "103",
+fk_devicetype: "2",
+name: "Regione Cavallo - Albenga",
+lat: "44.051483",
+lon: "8.207619",
+fk_region: "8"
+},
+{
+pk_device: "104",
+fk_devicetype: "2",
+name: "Corso Ferrari - Albisola Superiore",
+lat: "44.331017",
+lon: "8.515117",
+fk_region: "8"
+},
+{
+pk_device: "105",
+fk_devicetype: "12",
+name: "Localita Bragno - Cairo Montenotte",
+lat: "44.374016",
+lon: "8.298775",
+fk_region: "8"
+},
+{
+pk_device: "106",
+fk_devicetype: "12",
+name: "Localita Farina - Cairo Montenotte",
+lat: "44.40217",
+lon: "8.27333",
+fk_region: "8"
+},
+{
+pk_device: "107",
+fk_devicetype: "12",
+name: "Localita Mazzucca - Cairo Montenotte",
+lat: "44.40418",
+lon: "8.285462",
+fk_region: "8"
+},
+{
+pk_device: "108",
+fk_devicetype: "13",
+name: "Carcare",
+lat: "44.349083",
+lon: "8.299533",
+fk_region: "8"
+},
+{
+pk_device: "109",
+fk_devicetype: "9",
+name: "Cengio",
+lat: "44.386917",
+lon: "8.207672",
+fk_region: "8"
+},
+{
+pk_device: "110",
+fk_devicetype: "9",
+name: "Campagna Localita Voze - Noli",
+lat: "44.205116",
+lon: "8.41554",
+fk_region: "8"
+},
+{
+pk_device: "111",
+fk_devicetype: "12",
+name: "Mercato Generale - Quiliano",
+lat: "44.292664",
+lon: "8.413546",
+fk_region: "8"
+},
+{
+pk_device: "112",
+fk_devicetype: "2",
+name: "Corso Ricci - Savona",
+lat: "44.312805",
+lon: "8.473119",
+fk_region: "8"
+},
+{
+pk_device: "113",
+fk_devicetype: "8",
+name: "Varaldo - Savona",
+lat: "44.315228",
+lon: "8.483896",
+fk_region: "8"
+},
+{
+pk_device: "114",
+fk_devicetype: "2",
+name: "Via Aurelia - Via Ferraris - Vado L.",
+lat: "44.2737",
+lon: "8.436515",
+fk_region: "8"
+},
+{
+pk_device: "115",
+fk_devicetype: "16",
+name: "Acqui Terme - Marx",
+lat: "44.678776",
+lon: "8.460976",
+fk_region: "12"
+},
+{
+pk_device: "116",
+fk_devicetype: "16",
+name: "Alessandria - DAnnunzio",
+lat: "44.90661",
+lon: "8.611999",
+fk_region: "12"
+},
+{
+pk_device: "117",
+fk_devicetype: "16",
+name: "Alessandria - Volta",
+lat: "44.9203",
+lon: "8.623196",
+fk_region: "12"
+},
+{
+pk_device: "118",
+fk_devicetype: "17",
+name: "Arquata S. - Minzoni",
+lat: "44.69133",
+lon: "8.881722",
+fk_region: "12"
+},
+{
+pk_device: "119",
+fk_devicetype: "16",
+name: "Casale M.to - Castello",
+lat: "45.136124",
+lon: "8.445175",
+fk_region: "12"
+},
+{
+pk_device: "120",
+fk_devicetype: "4",
+name: "Dernice - Costa",
+lat: "44.763344",
+lon: "9.052426",
+fk_region: "12"
+},
+{
+pk_device: "121",
+fk_devicetype: "2",
+name: "Novi Ligure - Gobetti",
+lat: "44.75814",
+lon: "8.794721",
+fk_region: "12"
+},
+{
+pk_device: "122",
+fk_devicetype: "18",
+name: "Serravalle S. - Spineto",
+lat: "44.720085",
+lon: "8.867307",
+fk_region: "12"
+},
+{
+pk_device: "123",
+fk_devicetype: "2",
+name: "Tortona - Carbone",
+lat: "44.8978",
+lon: "8.859642",
+fk_region: "12"
+},
+{
+pk_device: "124",
+fk_devicetype: "2",
+name: "Asti - Baussano",
+lat: "44.894222",
+lon: "8.197557",
+fk_region: "12"
+},
+{
+pk_device: "125",
+fk_devicetype: "16",
+name: "Asti - DAcquisto",
+lat: "44.90893",
+lon: "8.20546",
+fk_region: "12"
+},
+{
+pk_device: "126",
+fk_devicetype: "4",
+name: "Vinchio - San Michele",
+lat: "44.808014",
+lon: "8.310314",
+fk_region: "12"
+},
+{
+pk_device: "127",
+fk_devicetype: "2",
+name: "Biella - Lamarmora",
+lat: "45.564175",
+lon: "8.051217",
+fk_region: "12"
+},
+{
+pk_device: "128",
+fk_devicetype: "16",
+name: "Biella - Sturzo",
+lat: "45.55882",
+lon: "8.056394",
+fk_region: "12"
+},
+{
+pk_device: "129",
+fk_devicetype: "16",
+name: "Cossato - Pace",
+lat: "45.569107",
+lon: "8.187606",
+fk_region: "12"
+},
+{
+pk_device: "130",
+fk_devicetype: "18",
+name: "Trivero - Ronco",
+lat: "45.664234",
+lon: "8.159812",
+fk_region: "12"
+},
+{
+pk_device: "131",
+fk_devicetype: "16",
+name: "Alba - Tanaro",
+lat: "44.70371",
+lon: "8.033027",
+fk_region: "12"
+},
+{
+pk_device: "132",
+fk_devicetype: "2",
+name: "Borgo S. D. - Giovanni XXIII",
+lat: "44.338127",
+lon: "7.493984",
+fk_region: "12"
+},
+{
+pk_device: "133",
+fk_devicetype: "2",
+name: "Bra - Madonna Fiori",
+lat: "44.706146",
+lon: "7.843104",
+fk_region: "12"
+},
+{
+pk_device: "134",
+fk_devicetype: "16",
+name: "Cuneo - Alpini",
+lat: "44.381756",
+lon: "7.538196",
+fk_region: "12"
+},
+{
+pk_device: "135",
+fk_devicetype: "2",
+name: "Mondovi - Aragno",
+lat: "44.401855",
+lon: "7.814634",
+fk_region: "12"
+},
+{
+pk_device: "136",
+fk_devicetype: "4",
+name: "Revello - Staffarda",
+lat: "44.71976",
+lon: "7.426223",
+fk_region: "12"
+},
+{
+pk_device: "137",
+fk_devicetype: "4",
+name: "Saliceto - Moizo",
+lat: "44.412228",
+lon: "8.169511",
+fk_region: "12"
+},
+{
+pk_device: "138",
+fk_devicetype: "2",
+name: "Borgomanero - Molli",
+lat: "45.68944",
+lon: "8.458442",
+fk_region: "12"
+},
+{
+pk_device: "139",
+fk_devicetype: "4",
+name: "Castelletto T. - Fontane",
+lat: "45.713528",
+lon: "8.602317",
+fk_region: "12"
+},
+{
+pk_device: "140",
+fk_devicetype: "18",
+name: "Cerano - Bagno",
+lat: "45.40973",
+lon: "8.786317",
+fk_region: "12"
+},
+{
+pk_device: "141",
+fk_devicetype: "18",
+name: "Domodossola - Curotti",
+lat: "46.127605",
+lon: "8.292114",
+fk_region: "12"
+},
+{
+pk_device: "142",
+fk_devicetype: "16",
+name: "Novara - Bovio",
+lat: "45.449223",
+lon: "8.634858",
+fk_region: "12"
+},
+{
+pk_device: "143",
+fk_devicetype: "2",
+name: "Novara - Roma",
+lat: "45.440342",
+lon: "8.619686",
+fk_region: "12"
+},
+{
+pk_device: "144",
+fk_devicetype: "16",
+name: "Novara - Verdi",
+lat: "45.43831",
+lon: "8.620608",
+fk_region: "12"
+},
+{
+pk_device: "145",
+fk_devicetype: "2",
+name: "Oleggio - Gallarate",
+lat: "45.593494",
+lon: "8.645077",
+fk_region: "12"
+},
+{
+pk_device: "146",
+fk_devicetype: "2",
+name: "Omegna - Crusinallo",
+lat: "45.89885",
+lon: "8.415739",
+fk_region: "12"
+},
+{
+pk_device: "147",
+fk_devicetype: "18",
+name: "Pieve Vergonte - Industria",
+lat: "46.011726",
+lon: "8.269",
+fk_region: "12"
+},
+{
+pk_device: "148",
+fk_devicetype: "16",
+name: "Trecate - Verra",
+lat: "45.437283",
+lon: "8.74333",
+fk_region: "12"
+},
+{
+pk_device: "149",
+fk_devicetype: "16",
+name: "Verbania - Gabardi",
+lat: "45.930344",
+lon: "8.56548",
+fk_region: "12"
+},
+{
+pk_device: "150",
+fk_devicetype: "16",
+name: "Beinasco - Aleramo",
+lat: "45.02472",
+lon: "7.578103",
+fk_region: "12"
+},
+{
+pk_device: "151",
+fk_devicetype: "18",
+name: "Borgaro T. - Caduti",
+lat: "45.15464",
+lon: "7.65804",
+fk_region: "12"
+},
+{
+pk_device: "152",
+fk_devicetype: "2",
+name: "Carmagnola - I Maggio",
+lat: "44.84754",
+lon: "7.713999",
+fk_region: "12"
+},
+{
+pk_device: "153",
+fk_devicetype: "4",
+name: "Ceresole Reale - Diga",
+lat: "45.43022",
+lon: "7.245402",
+fk_region: "12"
+},
+{
+pk_device: "154",
+fk_devicetype: "18",
+name: "Chieri - Bersezio",
+lat: "45.002758",
+lon: "7.837479",
+fk_region: "12"
+},
+{
+pk_device: "155",
+fk_devicetype: "2",
+name: "Collegno - Francia",
+lat: "45.072582",
+lon: "7.577933",
+fk_region: "12"
+},
+{
+pk_device: "156",
+fk_devicetype: "4",
+name: "Druento - La Mandria",
+lat: "45.17577",
+lon: "7.560196",
+fk_region: "12"
+},
+{
+pk_device: "157",
+fk_devicetype: "16",
+name: "Grugliasco - Radich",
+lat: "45.06724",
+lon: "7.605643",
+fk_region: "12"
+},
+{
+pk_device: "158",
+fk_devicetype: "18",
+name: "Ivrea - Liberazione",
+lat: "45.4512",
+lon: "7.878036",
+fk_region: "12"
+},
+{
+pk_device: "159",
+fk_devicetype: "18",
+name: "Orbassano - Gozzano",
+lat: "45.00687",
+lon: "7.549626",
+fk_region: "12"
+},
+{
+pk_device: "160",
+fk_devicetype: "13",
+name: "Oulx - Roma",
+lat: "45.034794",
+lon: "6.835924",
+fk_region: "12"
+},
+{
+pk_device: "161",
+fk_devicetype: "16",
+name: "Pinerolo - Alpini",
+lat: "44.884308",
+lon: "7.330205",
+fk_region: "12"
+},
+{
+pk_device: "162",
+fk_devicetype: "2",
+name: "Settimo T. - Vivaldi",
+lat: "45.143196",
+lon: "7.778178",
+fk_region: "12"
+},
+{
+pk_device: "163",
+fk_devicetype: "18",
+name: "Susa - Repubblica",
+lat: "45.139114",
+lon: "7.050055",
+fk_region: "12"
+},
+{
+pk_device: "164",
+fk_devicetype: "2",
+name: "Torino - Consolata",
+lat: "45.075848",
+lon: "7.678219",
+fk_region: "12"
+},
+{
+pk_device: "165",
+fk_devicetype: "16",
+name: "Torino - Lingotto",
+lat: "45.024944",
+lon: "7.649054",
+fk_region: "12"
+},
+{
+pk_device: "166",
+fk_devicetype: "2",
+name: "Torino - Rebaudengo",
+lat: "45.10407",
+lon: "7.695363",
+fk_region: "12"
+},
+{
+pk_device: "167",
+fk_devicetype: "16",
+name: "Torino - Rubino",
+lat: "45.041878",
+lon: "7.625927",
+fk_region: "12"
+},
+{
+pk_device: "168",
+fk_devicetype: "18",
+name: "Vinovo - Volontari",
+lat: "44.951305",
+lon: "7.636153",
+fk_region: "12"
+},
+{
+pk_device: "169",
+fk_devicetype: "16",
+name: "Borgosesia - Tonella",
+lat: "45.71317",
+lon: "8.283528",
+fk_region: "12"
+},
+{
+pk_device: "170",
+fk_devicetype: "19",
+name: "Cigliano-Autostrada",
+lat: "45.294746",
+lon: "8.043388",
+fk_region: "12"
+},
+{
+pk_device: "171",
+fk_devicetype: "18",
+name: "Vercelli - CONI",
+lat: "45.31891",
+lon: "8.402361",
+fk_region: "12"
+},
+{
+pk_device: "172",
+fk_devicetype: "8",
+name: "Aosta - Mont Fleury",
+lat: "45.7305",
+lon: "7.29903",
+fk_region: "19"
+},
+{
+pk_device: "173",
+fk_devicetype: "8",
+name: "Aosta - P.za Plouves",
+lat: "45.7369",
+lon: "7.32372",
+fk_region: "19"
+},
+{
+pk_device: "174",
+fk_devicetype: "8",
+name: "Aosta - Q.re Dora",
+lat: "45.7369",
+lon: "7.34256",
+fk_region: "19"
+},
+{
+pk_device: "175",
+fk_devicetype: "13",
+name: "Courmayeur - Entrèves",
+lat: "45.7369",
+lon: "6.95795",
+fk_region: "19"
+},
+{
+pk_device: "176",
+fk_devicetype: "9",
+name: "Donnas - Montey",
+lat: "45.7369",
+lon: "7.76643",
+fk_region: "19"
+},
+{
+pk_device: "177",
+fk_devicetype: "8",
+name: "TERAMO Porta Madonna",
+lat: "42.65709",
+lon: "13.71149",
+fk_region: "1"
+},
+{
+pk_device: "178",
+fk_devicetype: "8",
+name: "PESCARA C.so V. Emanuele",
+lat: "42.467766",
+lon: "14.208817",
+fk_region: "1"
+},
+{
+pk_device: "179",
+fk_devicetype: "8",
+name: "PESCARA Citta S.Angelo",
+lat: "42.517498",
+lon: "14.060405",
+fk_region: "1"
+},
+{
+pk_device: "180",
+fk_devicetype: "8",
+name: "PESCARA Montesilvano nuova",
+lat: "42.508133",
+lon: "14.140887",
+fk_region: "1"
+},
+{
+pk_device: "181",
+fk_devicetype: "8",
+name: "PESCARA P.zza Grue",
+lat: "42.460476",
+lon: "14.221598",
+fk_region: "1"
+},
+{
+pk_device: "182",
+fk_devicetype: "8",
+name: "PESCARA Spoltore",
+lat: "42.454983",
+lon: "14.138033",
+fk_region: "1"
+},
+{
+pk_device: "183",
+fk_devicetype: "8",
+name: "PESCARA Teatro D.Annunzio",
+lat: "42.457123",
+lon: "14.234624",
+fk_region: "1"
+},
+{
+pk_device: "184",
+fk_devicetype: "8",
+name: "PESCARA V.le D.Annunzio",
+lat: "42.456272",
+lon: "14.216663",
+fk_region: "1"
+},
+{
+pk_device: "185",
+fk_devicetype: "8",
+name: "PESCARA Via Firenze nuova",
+lat: "42.46979",
+lon: "14.20922",
+fk_region: "1"
+},
+{
+pk_device: "186",
+fk_devicetype: "8",
+name: "PESCARA Via Sacco",
+lat: "42.44623",
+lon: "14.215564",
+fk_region: "1"
+},
+{
+pk_device: "187",
+fk_devicetype: "8",
+name: "PESCARA Viale Bovio",
+lat: "42.477165",
+lon: "14.197568",
+fk_region: "1"
+},
+{
+pk_device: "188",
+fk_devicetype: "8",
+name: "LAQUILA Amiternum new",
+lat: "42.36064",
+lon: "13.377894",
+fk_region: "1"
+},
+{
+pk_device: "189",
+fk_devicetype: "8",
+name: "LAQUILA Arischia",
+lat: "42.353153",
+lon: "13.396875",
+fk_region: "1"
+},
+{
+pk_device: "190",
+fk_devicetype: "8",
+name: "LAQUILA San Gregorio",
+lat: "42.32782",
+lon: "13.495497",
+fk_region: "1"
+},
+{
+pk_device: "191",
+fk_devicetype: "8",
+name: "Chieti Ortona",
+lat: "42.348183",
+lon: "14.402109",
+fk_region: "1"
+},
+{
+pk_device: "192",
+fk_devicetype: "7",
+name: "Pisticci - Zona industriale",
+lat: "40.42046",
+lon: "16.548384",
+fk_region: "2"
+},
+{
+pk_device: "193",
+fk_devicetype: "7",
+name: "Viggiano - Costa Molina",
+lat: "40.315544",
+lon: "15.954768",
+fk_region: "2"
+},
+{
+pk_device: "194",
+fk_devicetype: "8",
+name: "Viggiano - C.da S. Caterina",
+lat: "40.334736",
+lon: "15.900802",
+fk_region: "2"
+},
+{
+pk_device: "195",
+fk_devicetype: "8",
+name: "Viggiano - Masseria de Blasiis",
+lat: "40.324215",
+lon: "15.867398",
+fk_region: "2"
+},
+{
+pk_device: "196",
+fk_devicetype: "8",
+name: "Grumento - Via Mancoso",
+lat: "40.288403",
+lon: "15.891481",
+fk_region: "2"
+},
+{
+pk_device: "197",
+fk_devicetype: "8",
+name: "PARCO MONTECUCCO",
+lat: "45.038544",
+lon: "9.669349",
+fk_region: "5"
+},
+{
+pk_device: "198",
+fk_devicetype: "9",
+name: "CORTE BRUGNATELLA",
+lat: "44.73473",
+lon: "9.366928",
+fk_region: "5"
+},
+{
+pk_device: "199",
+fk_devicetype: "14",
+name: "LUGAGNANO",
+lat: "44.82389",
+lon: "9.830369",
+fk_region: "5"
+},
+{
+pk_device: "200",
+fk_devicetype: "2",
+name: "GIORDANI-FARNESE",
+lat: "45.04884",
+lon: "9.693265",
+fk_region: "5"
+},
+{
+pk_device: "201",
+fk_devicetype: "9",
+name: "BESENZONE",
+lat: "44.9895",
+lon: "10.019201",
+fk_region: "5"
+},
+{
+pk_device: "202",
+fk_devicetype: "8",
+name: "CITTADELLA",
+lat: "44.8",
+lon: "10.33",
+fk_region: "5"
+},
+{
+pk_device: "203",
+fk_devicetype: "2",
+name: "MONTEBELLO",
+lat: "44.79",
+lon: "10.340006",
+fk_region: "5"
+},
+{
+pk_device: "204",
+fk_devicetype: "9",
+name: "BADIA",
+lat: "44.658226",
+lon: "10.289367",
+fk_region: "5"
+},
+{
+pk_device: "205",
+fk_devicetype: "14",
+name: "SARAGAT",
+lat: "44.925964",
+lon: "10.371914",
+fk_region: "5"
+},
+{
+pk_device: "206",
+fk_devicetype: "9",
+name: "FEBBIO",
+lat: "44.30071",
+lon: "10.431042",
+fk_region: "5"
+},
+{
+pk_device: "207",
+fk_devicetype: "14",
+name: "CASTELLARANO",
+lat: "44.516243",
+lon: "10.733905",
+fk_region: "5"
+},
+{
+pk_device: "208",
+fk_devicetype: "8",
+name: "S. LAZZARO",
+lat: "44.68904",
+lon: "10.663591",
+fk_region: "5"
+},
+{
+pk_device: "209",
+fk_devicetype: "9",
+name: "S. ROCCO",
+lat: "44.873726",
+lon: "10.664777",
+fk_region: "5"
+},
+{
+pk_device: "210",
+fk_devicetype: "2",
+name: "TIMAVO",
+lat: "44.69955",
+lon: "10.622759",
+fk_region: "5"
+},
+{
+pk_device: "211",
+fk_devicetype: "8",
+name: "PARCO EDILCARANI",
+lat: "44.540382",
+lon: "10.792358",
+fk_region: "5"
+},
+{
+pk_device: "212",
+fk_devicetype: "2",
+name: "GIARDINI",
+lat: "44.636986",
+lon: "10.905724",
+fk_region: "5"
+},
+{
+pk_device: "213",
+fk_devicetype: "14",
+name: "REMESINA",
+lat: "44.800377",
+lon: "10.884255",
+fk_region: "5"
+},
+{
+pk_device: "214",
+fk_devicetype: "2",
+name: "SAN FRANCESCO",
+lat: "44.542152",
+lon: "10.819878",
+fk_region: "5"
+},
+{
+pk_device: "215",
+fk_devicetype: "8",
+name: "PARCO FERRARI",
+lat: "44.65157",
+lon: "10.907312",
+fk_region: "5"
+},
+{
+pk_device: "216",
+fk_devicetype: "9",
+name: "GAVELLO",
+lat: "45.01415",
+lon: "10.549817",
+fk_region: "5"
+},
+{
+pk_device: "217",
+fk_devicetype: "2",
+name: "DE AMICIS",
+lat: "44.355423",
+lon: "11.720672",
+fk_region: "5"
+},
+{
+pk_device: "218",
+fk_devicetype: "2",
+name: "SAN LAZZARO",
+lat: "44.46719",
+lon: "11.416601",
+fk_region: "5"
+},
+{
+pk_device: "219",
+fk_devicetype: "8",
+name: "GIARDINI MARGHERITA",
+lat: "44.483627",
+lon: "11.355035",
+fk_region: "5"
+},
+{
+pk_device: "220",
+fk_devicetype: "2",
+name: "PORTA SAN FELICE",
+lat: "44.500015",
+lon: "11.328501",
+fk_region: "5"
+},
+{
+pk_device: "221",
+fk_devicetype: "9",
+name: "SAN PIETRO CAPOFIUME",
+lat: "44.654232",
+lon: "11.62482",
+fk_region: "5"
+},
+{
+pk_device: "222",
+fk_devicetype: "9",
+name: "CASTELLUCCIO",
+lat: "44.15122",
+lon: "10.927193",
+fk_region: "5"
+},
+{
+pk_device: "223",
+fk_devicetype: "14",
+name: "VIA CHIARINI",
+lat: "44.50009",
+lon: "11.286065",
+fk_region: "5"
+},
+{
+pk_device: "224",
+fk_devicetype: "14",
+name: "CENTO",
+lat: "44.73301",
+lon: "11.299659",
+fk_region: "5"
+},
+{
+pk_device: "225",
+fk_devicetype: "8",
+name: "VILLA FULVIA",
+lat: "44.824265",
+lon: "11.649618",
+fk_region: "5"
+},
+{
+pk_device: "226",
+fk_devicetype: "9",
+name: "OSTELLATO",
+lat: "44.740894",
+lon: "11.941937",
+fk_region: "5"
+},
+{
+pk_device: "227",
+fk_devicetype: "9",
+name: "GHERARDI",
+lat: "44.83975",
+lon: "11.961252",
+fk_region: "5"
+},
+{
+pk_device: "228",
+fk_devicetype: "2",
+name: "ISONZO",
+lat: "44.842487",
+lon: "11.613141",
+fk_region: "5"
+},
+{
+pk_device: "229",
+fk_devicetype: "14",
+name: "DELTA CERVIA",
+lat: "44.283855",
+lon: "12.332249",
+fk_region: "5"
+},
+{
+pk_device: "230",
+fk_devicetype: "9",
+name: "BALLIRANA",
+lat: "44.52743",
+lon: "11.982355",
+fk_region: "5"
+},
+{
+pk_device: "231",
+fk_devicetype: "2",
+name: "ZALAMELLA",
+lat: "44.427784",
+lon: "12.186495",
+fk_region: "5"
+},
+{
+pk_device: "232",
+fk_devicetype: "8",
+name: "CAORLE",
+lat: "44.419262",
+lon: "12.225385",
+fk_region: "5"
+},
+{
+pk_device: "233",
+fk_devicetype: "8",
+name: "PARCO BUCCI",
+lat: "44.295013",
+lon: "11.871098",
+fk_region: "5"
+},
+{
+pk_device: "234",
+fk_devicetype: "8",
+name: "PARCO RESISTENZA",
+lat: "44.215153",
+lon: "12.04816",
+fk_region: "5"
+},
+{
+pk_device: "235",
+fk_devicetype: "2",
+name: "ROMA",
+lat: "44.215973",
+lon: "12.057502",
+fk_region: "5"
+},
+{
+pk_device: "236",
+fk_devicetype: "8",
+name: "FRANCHINI-ANGELONI",
+lat: "44.14138",
+lon: "12.244744",
+fk_region: "5"
+},
+{
+pk_device: "237",
+fk_devicetype: "14",
+name: "SAVIGNANO",
+lat: "44.09687",
+lon: "12.403328",
+fk_region: "5"
+},
+{
+pk_device: "238",
+fk_devicetype: "9",
+name: "SAVIGNANO DI RIGO",
+lat: "43.927406",
+lon: "12.224794",
+fk_region: "5"
+},
+{
+pk_device: "239",
+fk_devicetype: "8",
+name: "MARECCHIA",
+lat: "44.06431",
+lon: "12.55249",
+fk_region: "5"
+},
+{
+pk_device: "240",
+fk_devicetype: "14",
+name: "VERUCCHIO",
+lat: "44.013878",
+lon: "12.420964",
+fk_region: "5"
+},
+{
+pk_device: "241",
+fk_devicetype: "2",
+name: "FLAMINIA",
+lat: "44.0521",
+lon: "12.57568",
+fk_region: "5"
+},
+{
+pk_device: "242",
+fk_devicetype: "9",
+name: "SAN CLEMENTE",
+lat: "43.93183",
+lon: "12.62728",
+fk_region: "5"
+},
+{
+pk_device: "243",
+fk_devicetype: "9",
+name: "SAN LEO",
+lat: "43.90722",
+lon: "12.401233",
+fk_region: "5"
+},
+{
+pk_device: "244",
+fk_devicetype: "8",
+name: "Castions - BAGNARIA ARSA",
+lat: "45.842075",
+lon: "13.301966",
+fk_region: "6"
+},
+{
+pk_device: "245",
+fk_devicetype: "8",
+name: "Ugovizza - MALBORGHETTO VALBRUNA",
+lat: "46.510075",
+lon: "13.474728",
+fk_region: "6"
+},
+{
+pk_device: "246",
+fk_devicetype: "8",
+name: "Osoppo - OSOPPO",
+lat: "46.22101",
+lon: "13.066895",
+fk_region: "6"
+},
+{
+pk_device: "247",
+fk_devicetype: "8",
+name: "S.Giovanni al Natisone - SAN GIOVANNI AL NATISONE",
+lat: "45.973312",
+lon: "13.393403",
+fk_region: "6"
+},
+{
+pk_device: "248",
+fk_devicetype: "8",
+name: "M.te Zoncolan - SUTRIO",
+lat: "46.5071",
+lon: "12.93175",
+fk_region: "6"
+},
+{
+pk_device: "249",
+fk_devicetype: "8",
+name: "Tolmezzo - TOLMEZZO",
+lat: "46.40187",
+lon: "13.0109825",
+fk_region: "6"
+},
+{
+pk_device: "250",
+fk_devicetype: "8",
+name: "Edison Torviscosa - TORVISCOSA",
+lat: "45.82199",
+lon: "13.271396",
+fk_region: "6"
+},
+{
+pk_device: "251",
+fk_devicetype: "8",
+name: "Malisana - TORVISCOSA",
+lat: "45.810783",
+lon: "13.262128",
+fk_region: "6"
+},
+{
+pk_device: "252",
+fk_devicetype: "8",
+name: "S.Osvaldo - UDINE",
+lat: "46.0351",
+lon: "13.225297",
+fk_region: "6"
+},
+{
+pk_device: "253",
+fk_devicetype: "8",
+name: "V.Cairoli - UDINE",
+lat: "46.066116",
+lon: "13.240687",
+fk_region: "6"
+},
+{
+pk_device: "254",
+fk_devicetype: "8",
+name: "Via S.Daniele - UDINE",
+lat: "46.071617",
+lon: "13.229644",
+fk_region: "6"
+},
+{
+pk_device: "255",
+fk_devicetype: "8",
+name: "A2A Doberdo - DOBERDO DEL LAGO",
+lat: "45.84299",
+lon: "13.543081",
+fk_region: "6"
+},
+{
+pk_device: "256",
+fk_devicetype: "8",
+name: "Doberdo - DOBERDO DEL LAGO",
+lat: "45.84386",
+lon: "13.544723",
+fk_region: "6"
+},
+{
+pk_device: "257",
+fk_devicetype: "8",
+name: "A2A Papariano - FIUMICELLO",
+lat: "45.799477",
+lon: "13.486356",
+fk_region: "6"
+},
+{
+pk_device: "258",
+fk_devicetype: "8",
+name: "Gorizia - GORIZIA",
+lat: "45.93701",
+lon: "13.616333",
+fk_region: "6"
+},
+{
+pk_device: "259",
+fk_devicetype: "8",
+name: "A2A Fossalon - GRADO",
+lat: "45.73162",
+lon: "13.486356",
+fk_region: "6"
+},
+{
+pk_device: "260",
+fk_devicetype: "8",
+name: "Punta Sdobba - GRADO",
+lat: "45.727646",
+lon: "13.541635",
+fk_region: "6"
+},
+{
+pk_device: "261",
+fk_devicetype: "8",
+name: "A2A Via Natisone - MONFALCONE",
+lat: "45.80518",
+lon: "13.522052",
+fk_region: "6"
+},
+{
+pk_device: "262",
+fk_devicetype: "8",
+name: "Monfalcone - MONFALCONE",
+lat: "45.81001",
+lon: "13.528861",
+fk_region: "6"
+},
+{
+pk_device: "263",
+fk_devicetype: "8",
+name: "A2A Vermegliano - RONCHI DEI LEGIONARI",
+lat: "45.836433",
+lon: "13.501116",
+fk_region: "6"
+},
+{
+pk_device: "264",
+fk_devicetype: "8",
+name: "Brugnera - BRUGNERA",
+lat: "45.89865",
+lon: "12.536309",
+fk_region: "6"
+},
+{
+pk_device: "265",
+fk_devicetype: "8",
+name: "Porcia - PORCIA",
+lat: "45.95767",
+lon: "12.618708",
+fk_region: "6"
+},
+{
+pk_device: "266",
+fk_devicetype: "8",
+name: "Pordenone Centro - PORDENONE",
+lat: "45.962524",
+lon: "12.656069",
+fk_region: "6"
+},
+{
+pk_device: "267",
+fk_devicetype: "8",
+name: "Sacile - SACILE",
+lat: "45.950893",
+lon: "12.501871",
+fk_region: "6"
+},
+{
+pk_device: "268",
+fk_devicetype: "8",
+name: "MMArpa - SAN VITO AL TAGLIAMENTO",
+lat: "45.9452",
+lon: "12.881552",
+fk_region: "6"
+},
+{
+pk_device: "269",
+fk_devicetype: "8",
+name: "Ancona Cittadella (AN)",
+lat: "43.612854",
+lon: "13.510395",
+fk_region: "10"
+},
+{
+pk_device: "270",
+fk_devicetype: "8",
+name: "Ascoli Piceno Monticelli (AP)",
+lat: "42.85292",
+lon: "13.62034",
+fk_region: "10"
+},
+{
+pk_device: "271",
+fk_devicetype: "14",
+name: "Chiaravalle/2 (AN)",
+lat: "43.60195",
+lon: "13.325412",
+fk_region: "10"
+},
+{
+pk_device: "272",
+fk_devicetype: "9",
+name: "Civitanova Marche - Ippodromo (MC)",
+lat: "43.29823",
+lon: "13.725972",
+fk_region: "10"
+},
+{
+pk_device: "273",
+fk_devicetype: "2",
+name: "Fabriano (AN)",
+lat: "43.34257",
+lon: "12.909442",
+fk_region: "10"
+},
+{
+pk_device: "274",
+fk_devicetype: "17",
+name: "Falconara Alta (AN)",
+lat: "43.636757",
+lon: "13.377256",
+fk_region: "10"
+},
+{
+pk_device: "275",
+fk_devicetype: "17",
+name: "Falconara Scuola (AN)",
+lat: "43.62181",
+lon: "13.39225",
+fk_region: "10"
+},
+{
+pk_device: "276",
+fk_devicetype: "2",
+name: "Fano - Via Monte Grappa (PU)",
+lat: "43.839535",
+lon: "13.017934",
+fk_region: "10"
+},
+{
+pk_device: "277",
+fk_devicetype: "9",
+name: "Genga - Parco Gola della Rossa (AN)",
+lat: "43.42966",
+lon: "12.935378",
+fk_region: "10"
+},
+{
+pk_device: "278",
+fk_devicetype: "2",
+name: "Jesi (AN)",
+lat: "43.527706",
+lon: "13.246465",
+fk_region: "10"
+},
+{
+pk_device: "279",
+fk_devicetype: "8",
+name: "Macerata - Collevario (MC)",
+lat: "43.284576",
+lon: "13.431824",
+fk_region: "10"
+},
+{
+pk_device: "280",
+fk_devicetype: "9",
+name: "Montemonaco (AP)",
+lat: "42.89885",
+lon: "13.330142",
+fk_region: "10"
+},
+{
+pk_device: "281",
+fk_devicetype: "8",
+name: "Pesaro - Via Scarpellini (PU)",
+lat: "43.893986",
+lon: "12.920203",
+fk_region: "10"
+},
+{
+pk_device: "282",
+fk_devicetype: "2",
+name: "San Benedetto (AP)",
+lat: "42.94276",
+lon: "13.883927",
+fk_region: "10"
+},
+{
+pk_device: "283",
+fk_devicetype: "14",
+name: "Urbino - Via Neruda (PU)",
+lat: "43.732197",
+lon: "12.629149",
+fk_region: "10"
+},
+{
+pk_device: "284",
+fk_devicetype: "17",
+name: "Falconara Acquedotto (AN)",
+lat: "43.637455",
+lon: "13.374602",
+fk_region: "10"
+},
+{
+pk_device: "285",
+fk_devicetype: "8",
+name: "Perugia - Parco Cortonese",
+lat: "43.104416",
+lon: "12.363561",
+fk_region: "18"
+},
+{
+pk_device: "286",
+fk_devicetype: "8",
+name: "Perugia - Ponte San Giovanni",
+lat: "43.089657",
+lon: "12.4419",
+fk_region: "18"
+},
+{
+pk_device: "287",
+fk_devicetype: "8",
+name: "Città di Castello - C. Castello",
+lat: "43.457767",
+lon: "12.245551",
+fk_region: "18"
+},
+{
+pk_device: "288",
+fk_devicetype: "8",
+name: "Gubbio - Piazza 40 Martiri",
+lat: "43.352802",
+lon: "12.57655",
+fk_region: "18"
+},
+{
+pk_device: "289",
+fk_devicetype: "8",
+name: "Magione - Magione",
+lat: "43.133762",
+lon: "12.205854",
+fk_region: "18"
+},
+{
+pk_device: "290",
+fk_devicetype: "8",
+name: "Foligno - Porta Romana",
+lat: "42.95256",
+lon: "12.707592",
+fk_region: "18"
+},
+{
+pk_device: "291",
+fk_devicetype: "9",
+name: "Torgiano - Brufa",
+lat: "43.067867",
+lon: "12.467941",
+fk_region: "18"
+},
+{
+pk_device: "292",
+fk_devicetype: "8",
+name: "Spoleto - Piazza Vittoria",
+lat: "42.740524",
+lon: "12.73754",
+fk_region: "18"
+},
+{
+pk_device: "293",
+fk_devicetype: "8",
+name: "Terni - Borgo Rivo",
+lat: "42.582684",
+lon: "12.623368",
+fk_region: "18"
+},
+{
+pk_device: "294",
+fk_devicetype: "8",
+name: "Terni - Carrara",
+lat: "42.559563",
+lon: "12.64983",
+fk_region: "18"
+},
+{
+pk_device: "295",
+fk_devicetype: "8",
+name: "Terni - Le Grazie",
+lat: "42.549988",
+lon: "12.65002",
+fk_region: "18"
+},
+{
+pk_device: "296",
+fk_devicetype: "8",
+name: "Amelia - Amelia",
+lat: "42.55283",
+lon: "12.419646",
+fk_region: "18"
+},
+{
+pk_device: "297",
+fk_devicetype: "8",
+name: "Narni - Narni Scalo",
+lat: "42.535046",
+lon: "12.521954",
+fk_region: "18"
+},
+{
+pk_device: "298",
+fk_devicetype: "8",
+name: "Orvieto - Ciconia 2",
+lat: "42.737858",
+lon: "12.13661",
+fk_region: "18"
+},
+{
+pk_device: "299",
+fk_devicetype: "9",
+name: "Monte S. Angelo - Suolo Ciuffreda",
+lat: "41.666107",
+lon: "15.945254",
+fk_region: "13"
+},
+{
+pk_device: "300",
+fk_devicetype: "17",
+name: "Manfredonia - Ungaretti",
+lat: "41.638977",
+lon: "15.928678",
+fk_region: "13"
+},
+{
+pk_device: "301",
+fk_devicetype: "2",
+name: "P.zza Verdi",
+lat: "41.2011",
+lon: "16.605253",
+fk_region: "13"
+},
+{
+pk_device: "302",
+fk_devicetype: "2",
+name: "Caldarola",
+lat: "41.11354",
+lon: "16.888063",
+fk_region: "13"
+},
+{
+pk_device: "303",
+fk_devicetype: "8",
+name: "Statte",
+lat: "40.5625",
+lon: "17.203325",
+fk_region: "13"
+},
+{
+pk_device: "304",
+fk_devicetype: "8",
+name: "Via Archimede",
+lat: "40.494442",
+lon: "17.233047",
+fk_region: "13"
+},
+{
+pk_device: "305",
+fk_devicetype: "8",
+name: "Via Machiavelli",
+lat: "40.48861",
+lon: "17.225822",
+fk_region: "13"
+},
+{
+pk_device: "306",
+fk_devicetype: "8",
+name: "San Vito",
+lat: "40.42333",
+lon: "17.225271",
+fk_region: "13"
+},
+{
+pk_device: "307",
+fk_devicetype: "8",
+name: "Via Alto Adige",
+lat: "40.460552",
+lon: "17.263601",
+fk_region: "13"
+},
+{
+pk_device: "308",
+fk_devicetype: "8",
+name: "Mesagne",
+lat: "40.565994",
+lon: "17.807999",
+fk_region: "13"
+},
+{
+pk_device: "309",
+fk_devicetype: "2",
+name: "Brindisi -Via Taranto",
+lat: "40.634167",
+lon: "17.947777",
+fk_region: "13"
+},
+{
+pk_device: "310",
+fk_devicetype: "8",
+name: "San Pancrazio Salentino",
+lat: "40.422993",
+lon: "17.845999",
+fk_region: "13"
+},
+{
+pk_device: "311",
+fk_devicetype: "20",
+name: "San Pietro Vernotico",
+lat: "40.485996",
+lon: "18.005995",
+fk_region: "13"
+},
+{
+pk_device: "312",
+fk_devicetype: "20",
+name: "Torchiarolo-Don Minzoni",
+lat: "40.488",
+lon: "18.053991",
+fk_region: "13"
+},
+{
+pk_device: "313",
+fk_devicetype: "13",
+name: "Guagnano",
+lat: "40.418526",
+lon: "17.964478",
+fk_region: "13"
+},
+{
+pk_device: "314",
+fk_devicetype: "13",
+name: "Arnesano",
+lat: "40.34627",
+lon: "18.095074",
+fk_region: "13"
+},
+{
+pk_device: "315",
+fk_devicetype: "13",
+name: "Galatina - S. Barbara",
+lat: "40.227085",
+lon: "18.076614",
+fk_region: "13"
+},
+{
+pk_device: "316",
+fk_devicetype: "8",
+name: "Paolo VI",
+lat: "40.520935",
+lon: "17.253416",
+fk_region: "13"
+},
+{
+pk_device: "317",
+fk_devicetype: "8",
+name: "Talsano",
+lat: "40.41194",
+lon: "17.283878",
+fk_region: "13"
+},
+{
+pk_device: "318",
+fk_devicetype: "8",
+name: "ss.7 Wind",
+lat: "40.52611",
+lon: "17.17361",
+fk_region: "13"
+},
+{
+pk_device: "319",
+fk_devicetype: "14",
+name: "Grottaglie",
+lat: "40.537777",
+lon: "17.42388",
+fk_region: "13"
+},
+{
+pk_device: "320",
+fk_devicetype: "8",
+name: "Martina Franca",
+lat: "40.700825",
+lon: "17.33194",
+fk_region: "13"
+},
+{
+pk_device: "321",
+fk_devicetype: "2",
+name: "Lecce - Garigliano",
+lat: "40.364456",
+lon: "18.174328",
+fk_region: "13"
+},
+{
+pk_device: "322",
+fk_devicetype: "8",
+name: "Lecce - P.za Palio",
+lat: "40.361156",
+lon: "18.194387",
+fk_region: "13"
+},
+{
+pk_device: "323",
+fk_devicetype: "8",
+name: "Maglie - I.T.C. De Castro",
+lat: "40.123634",
+lon: "18.294098",
+fk_region: "13"
+},
+{
+pk_device: "324",
+fk_devicetype: "14",
+name: "Campi S.na - I.T.C. Costa",
+lat: "40.397507",
+lon: "18.026508",
+fk_region: "13"
+},
+{
+pk_device: "325",
+fk_devicetype: "2",
+name: "CAVOUR",
+lat: "41.12227",
+lon: "16.872553",
+fk_region: "13"
+},
+{
+pk_device: "326",
+fk_devicetype: "14",
+name: "KENNEDY",
+lat: "41.099594",
+lon: "16.858906",
+fk_region: "13"
+},
+{
+pk_device: "327",
+fk_devicetype: "14",
+name: "S. Pietro Vernotico - Valzani",
+lat: "40.48",
+lon: "18",
+fk_region: "13"
+},
+{
+pk_device: "328",
+fk_devicetype: "8",
+name: "Andria",
+lat: "41.233276",
+lon: "16.30394",
+fk_region: "13"
+},
+{
+pk_device: "329",
+fk_devicetype: "13",
+name: "Altamura",
+lat: "40.82885",
+lon: "16.561014",
+fk_region: "13"
+},
+{
+pk_device: "330",
+fk_devicetype: "14",
+name: "Casamassima",
+lat: "40.953156",
+lon: "16.92073",
+fk_region: "13"
+},
+{
+pk_device: "331",
+fk_devicetype: "13",
+name: "Monopoli",
+lat: "40.951168",
+lon: "17.290285",
+fk_region: "13"
+},
+{
+pk_device: "332",
+fk_devicetype: "2",
+name: "Barletta - Stadio Simeone",
+lat: "41.316666",
+lon: "16.286112",
+fk_region: "13"
+},
+{
+pk_device: "333",
+fk_devicetype: "13",
+name: "Francavilla Fontana - Via F. Filzi",
+lat: "40.529163",
+lon: "17.588331",
+fk_region: "13"
+},
+{
+pk_device: "334",
+fk_devicetype: "8",
+name: "Via Frappietri",
+lat: "40.59376",
+lon: "17.11669",
+fk_region: "13"
+},
+{
+pk_device: "335",
+fk_devicetype: "2",
+name: "Foggia",
+lat: "41.455555",
+lon: "15.548611",
+fk_region: "13"
+},
+{
+pk_device: "336",
+fk_devicetype: "14",
+name: "Carbonara",
+lat: "41.076668",
+lon: "16.866943",
+fk_region: "13"
+},
+{
+pk_device: "337",
+fk_devicetype: "9",
+name: "Posta del Principe",
+lat: "41.631058",
+lon: "15.386841",
+fk_region: "13"
+},
+{
+pk_device: "338",
+fk_devicetype: "21",
+name: "Azienda Russo",
+lat: "41.5451",
+lon: "15.450472",
+fk_region: "13"
+},
+{
+pk_device: "339",
+fk_devicetype: "13",
+name: "San Vito dei Normanni",
+lat: "40.657223",
+lon: "17.7125",
+fk_region: "13"
+},
+{
+pk_device: "340",
+fk_devicetype: "13",
+name: "Mesagne-Via Antonucci",
+lat: "40.551945",
+lon: "17.814165",
+fk_region: "13"
+},
+{
+pk_device: "341",
+fk_devicetype: "8",
+name: "CUS",
+lat: "41.134724",
+lon: "16.845278",
+fk_region: "13"
+},
+{
+pk_device: "342",
+fk_devicetype: "13",
+name: "Monopoli ItalGreen",
+lat: "40.96158",
+lon: "17.284267",
+fk_region: "13"
+},
+{
+pk_device: "343",
+fk_devicetype: "21",
+name: "Surbo- Via B. Croce SN",
+lat: "40.41194",
+lon: "18.120834",
+fk_region: "13"
+},
+{
+pk_device: "344",
+fk_devicetype: "14",
+name: "Ceglie Messapica",
+lat: "40.649166",
+lon: "17.5125",
+fk_region: "13"
+},
+{
+pk_device: "345",
+fk_devicetype: "17",
+name: "EN02 - Assessorato Ecologia",
+lat: "41.107777",
+lon: "16.766111",
+fk_region: "13"
+},
+{
+pk_device: "346",
+fk_devicetype: "20",
+name: "EN03 - Vigili Urbani",
+lat: "41.087223",
+lon: "16.781672",
+fk_region: "13"
+},
+{
+pk_device: "347",
+fk_devicetype: "17",
+name: "EN04 - SAN PAOLO",
+lat: "41.114445",
+lon: "16.787777",
+fk_region: "13"
+},
+{
+pk_device: "348",
+fk_devicetype: "17",
+name: "EN01",
+lat: "41.079166",
+lon: "16.745277",
+fk_region: "13"
+},
+{
+pk_device: "349",
+fk_devicetype: "9",
+name: "Cisternino",
+lat: "40.74278",
+lon: "17.415833",
+fk_region: "13"
+},
+{
+pk_device: "350",
+fk_devicetype: "8",
+name: "Trento Parco S.Chiara",
+lat: "46.063313",
+lon: "11.126211",
+fk_region: "17"
+},
+{
+pk_device: "351",
+fk_devicetype: "8",
+name: "Trento Via Bolzano",
+lat: "46.105213",
+lon: "11.109692",
+fk_region: "17"
+},
+{
+pk_device: "352",
+fk_devicetype: "8",
+name: "Piana Rotaliana",
+lat: "46.21598",
+lon: "11.1202",
+fk_region: "17"
+},
+{
+pk_device: "353",
+fk_devicetype: "8",
+name: "Rovereto Largo Posta",
+lat: "45.891132",
+lon: "11.034715",
+fk_region: "17"
+},
+{
+pk_device: "354",
+fk_devicetype: "8",
+name: "Borgo Valsugana",
+lat: "46.051735",
+lon: "11.453914",
+fk_region: "17"
+},
+{
+pk_device: "355",
+fk_devicetype: "8",
+name: "Riva del Garda",
+lat: "45.893696",
+lon: "10.848389",
+fk_region: "17"
+},
+{
+pk_device: "356",
+fk_devicetype: "16",
+name: "BL - Citta",
+lat: "46.146076",
+lon: "12.216077",
+fk_region: "20"
+},
+{
+pk_device: "357",
+fk_devicetype: "18",
+name: "Area Feltrina",
+lat: "46.021378",
+lon: "11.901615",
+fk_region: "20"
+},
+{
+pk_device: "358",
+fk_devicetype: "18",
+name: "Pieve di Alpago",
+lat: "46.16736",
+lon: "12.352889",
+fk_region: "20"
+},
+{
+pk_device: "359",
+fk_devicetype: "17",
+name: "PD Granze",
+lat: "45.15806",
+lon: "11.715515",
+fk_region: "20"
+},
+{
+pk_device: "360",
+fk_devicetype: "4",
+name: "PD - Mandria",
+lat: "45.370636",
+lon: "11.834594",
+fk_region: "20"
+},
+{
+pk_device: "361",
+fk_devicetype: "19",
+name: "PD - Arcella",
+lat: "45.422493",
+lon: "11.88324",
+fk_region: "20"
+},
+{
+pk_device: "362",
+fk_devicetype: "20",
+name: "Este",
+lat: "45.225143",
+lon: "11.665118",
+fk_region: "20"
+},
+{
+pk_device: "363",
+fk_devicetype: "16",
+name: "Parco Colli Euganei",
+lat: "45.304817",
+lon: "11.712508",
+fk_region: "20"
+},
+{
+pk_device: "364",
+fk_devicetype: "16",
+name: "S.Giustina in Colle",
+lat: "45.567654",
+lon: "11.90197",
+fk_region: "20"
+},
+{
+pk_device: "365",
+fk_devicetype: "16",
+name: "PD - Viale Internato Ignoto",
+lat: "45.394897",
+lon: "11.909285",
+fk_region: "20"
+},
+{
+pk_device: "366",
+fk_devicetype: "4",
+name: "PD - Via G. Carli",
+lat: "45.41487",
+lon: "11.906524",
+fk_region: "20"
+},
+{
+pk_device: "367",
+fk_devicetype: "16",
+name: "Adria",
+lat: "45.056007",
+lon: "12.055885",
+fk_region: "20"
+},
+{
+pk_device: "368",
+fk_devicetype: "16",
+name: "RO - Borsea",
+lat: "45.04072",
+lon: "11.790472",
+fk_region: "20"
+},
+{
+pk_device: "369",
+fk_devicetype: "2",
+name: "RO - Centro",
+lat: "45.069576",
+lon: "11.790569",
+fk_region: "20"
+},
+{
+pk_device: "370",
+fk_devicetype: "4",
+name: "Badia Polesine - Loc.Villafora",
+lat: "45.094177",
+lon: "11.493838",
+fk_region: "20"
+},
+{
+pk_device: "371",
+fk_devicetype: "16",
+name: "Conegliano",
+lat: "45.88412",
+lon: "12.295552",
+fk_region: "20"
+},
+{
+pk_device: "372",
+fk_devicetype: "16",
+name: "TV - Via Lancieri di Novara",
+lat: "45.67178",
+lon: "12.237967",
+fk_region: "20"
+},
+{
+pk_device: "373",
+fk_devicetype: "4",
+name: "Mansue",
+lat: "45.82359",
+lon: "12.536213",
+fk_region: "20"
+},
+{
+pk_device: "374",
+fk_devicetype: "16",
+name: "VE - Via Beccaria",
+lat: "45.470036",
+lon: "12.2213",
+fk_region: "20"
+},
+{
+pk_device: "375",
+fk_devicetype: "16",
+name: "Spinea",
+lat: "45.49479",
+lon: "12.158576",
+fk_region: "20"
+},
+{
+pk_device: "376",
+fk_devicetype: "16",
+name: "VE - Sacca Fisola",
+lat: "45.427048",
+lon: "12.315205",
+fk_region: "20"
+},
+{
+pk_device: "377",
+fk_devicetype: "16",
+name: "San Dona di Piave",
+lat: "45.633575",
+lon: "12.564185",
+fk_region: "20"
+},
+{
+pk_device: "378",
+fk_devicetype: "16",
+name: "VE - Parco Bissuola",
+lat: "45.498383",
+lon: "12.263316",
+fk_region: "20"
+},
+{
+pk_device: "379",
+fk_devicetype: "17",
+name: "VE - Malcontenta",
+lat: "45.43703",
+lon: "12.20514",
+fk_region: "20"
+},
+{
+pk_device: "380",
+fk_devicetype: "2",
+name: "VE - Via Tagliamento",
+lat: "45.488842",
+lon: "12.217279",
+fk_region: "20"
+},
+{
+pk_device: "381",
+fk_devicetype: "16",
+name: "Fumane",
+lat: "45.543236",
+lon: "10.885866",
+fk_region: "20"
+},
+{
+pk_device: "382",
+fk_devicetype: "16",
+name: "Legnago",
+lat: "45.189987",
+lon: "11.307305",
+fk_region: "20"
+},
+{
+pk_device: "383",
+fk_devicetype: "2",
+name: "S. Bonifacio",
+lat: "45.396782",
+lon: "11.280586",
+fk_region: "20"
+},
+{
+pk_device: "384",
+fk_devicetype: "2",
+name: "VR - Borgo Milano",
+lat: "45.345974",
+lon: "10.808535",
+fk_region: "20"
+},
+{
+pk_device: "385",
+fk_devicetype: "18",
+name: "VR - Loc. Cason",
+lat: "45.54434",
+lon: "10.804082",
+fk_region: "20"
+},
+{
+pk_device: "386",
+fk_devicetype: "4",
+name: "Boscochiesanuova",
+lat: "45.621315",
+lon: "11.030781",
+fk_region: "20"
+},
+{
+pk_device: "387",
+fk_devicetype: "16",
+name: "VI - Quartiere Italia",
+lat: "45.6219",
+lon: "11.463667",
+fk_region: "20"
+},
+{
+pk_device: "388",
+fk_devicetype: "17",
+name: "Montebello Nord",
+lat: "45.46939",
+lon: "11.385454",
+fk_region: "20"
+},
+{
+pk_device: "389",
+fk_devicetype: "16",
+name: "Schio",
+lat: "45.710457",
+lon: "11.359526",
+fk_region: "20"
+},
+{
+pk_device: "390",
+fk_devicetype: "16",
+name: "Bassano",
+lat: "45.760628",
+lon: "11.73192",
+fk_region: "20"
+},
+{
+pk_device: "391",
+fk_devicetype: "4",
+name: "Asiago Cima Ekar",
+lat: "45.86345",
+lon: "11.556008",
+fk_region: "20"
+},
+{
+pk_device: "392",
+fk_devicetype: "2",
+name: "VI - San Felice",
+lat: "45.54349",
+lon: "11.530124",
+fk_region: "20"
+},
+{
+pk_device: "393",
+fk_devicetype: "16",
+name: "VI - Ferrovieri",
+lat: "45.535686",
+lon: "11.523797",
+fk_region: "20"
+},
+{
+pk_device: "394",
+fk_devicetype: "20",
+name: "Chiampo",
+lat: "45.546314",
+lon: "11.280275",
+fk_region: "20"
+},
+{
+pk_device: "395",
+fk_devicetype: "8",
+name: "Bergamo Via Garibaldi",
+lat: "45.695686",
+lon: "9.661261",
+fk_region: "9"
+},
+{
+pk_device: "396",
+fk_devicetype: "8",
+name: "Bergamo Via Goisis",
+lat: "45.71592",
+lon: "9.68897",
+fk_region: "9"
+},
+{
+pk_device: "397",
+fk_devicetype: "8",
+name: "Bergamo Via Meucci",
+lat: "45.691044",
+lon: "9.643662",
+fk_region: "9"
+},
+{
+pk_device: "398",
+fk_devicetype: "8",
+name: "Ciserano",
+lat: "45.591557",
+lon: "9.606138",
+fk_region: "9"
+},
+{
+pk_device: "399",
+fk_devicetype: "8",
+name: "Dalmine via Verdi",
+lat: "45.64971",
+lon: "9.601234",
+fk_region: "9"
+},
+{
+pk_device: "400",
+fk_devicetype: "8",
+name: "Filago Marne",
+lat: "45.624466",
+lon: "9.556516",
+fk_region: "9"
+},
+{
+pk_device: "401",
+fk_devicetype: "8",
+name: "Lallio",
+lat: "45.65967",
+lon: "9.61858",
+fk_region: "9"
+},
+{
+pk_device: "402",
+fk_devicetype: "8",
+name: "Osio Sotto",
+lat: "45.620583",
+lon: "9.611544",
+fk_region: "9"
+},
+{
+pk_device: "403",
+fk_devicetype: "8",
+name: "Seriate",
+lat: "45.686363",
+lon: "9.714958",
+fk_region: "9"
+},
+{
+pk_device: "404",
+fk_devicetype: "8",
+name: "Treviglio",
+lat: "45.519337",
+lon: "9.592019",
+fk_region: "9"
+},
+{
+pk_device: "405",
+fk_devicetype: "8",
+name: "Villa di Serio",
+lat: "45.727882",
+lon: "9.738481",
+fk_region: "9"
+},
+{
+pk_device: "406",
+fk_devicetype: "8",
+name: "Brescia Via Turati",
+lat: "45.539536",
+lon: "10.231788",
+fk_region: "9"
+},
+{
+pk_device: "407",
+fk_devicetype: "8",
+name: "Brescia Via Ziziola",
+lat: "45.514565",
+lon: "10.218465",
+fk_region: "9"
+},
+{
+pk_device: "408",
+fk_devicetype: "8",
+name: "Brescia Villaggio Sereno",
+lat: "45.515945",
+lon: "10.219148",
+fk_region: "9"
+},
+{
+pk_device: "409",
+fk_devicetype: "8",
+name: "Rezzato",
+lat: "45.515713",
+lon: "10.33624",
+fk_region: "9"
+},
+{
+pk_device: "410",
+fk_devicetype: "8",
+name: "Sarezzo",
+lat: "45.649612",
+lon: "10.205081",
+fk_region: "9"
+},
+{
+pk_device: "411",
+fk_devicetype: "8",
+name: "Cantu",
+lat: "45.73084",
+lon: "9.125739",
+fk_region: "9"
+},
+{
+pk_device: "412",
+fk_devicetype: "8",
+name: "Como Centro",
+lat: "45.81504",
+lon: "9.066978",
+fk_region: "9"
+},
+{
+pk_device: "413",
+fk_devicetype: "8",
+name: "Mariano Comense",
+lat: "45.68866",
+lon: "9.180649",
+fk_region: "9"
+},
+{
+pk_device: "414",
+fk_devicetype: "8",
+name: "Merate",
+lat: "45.69796",
+lon: "9.406192",
+fk_region: "9"
+},
+{
+pk_device: "415",
+fk_devicetype: "8",
+name: "Agrate",
+lat: "45.57578",
+lon: "9.354094",
+fk_region: "9"
+},
+{
+pk_device: "416",
+fk_devicetype: "8",
+name: "Carate Brianza",
+lat: "45.672016",
+lon: "9.234603",
+fk_region: "9"
+},
+{
+pk_device: "417",
+fk_devicetype: "8",
+name: "Limbiate",
+lat: "45.59096",
+lon: "9.139417",
+fk_region: "9"
+},
+{
+pk_device: "418",
+fk_devicetype: "8",
+name: "Meda",
+lat: "45.66099",
+lon: "9.160225",
+fk_region: "9"
+},
+{
+pk_device: "419",
+fk_devicetype: "8",
+name: "Monza Machiavelli",
+lat: "45.574116",
+lon: "9.263808",
+fk_region: "9"
+},
+{
+pk_device: "420",
+fk_devicetype: "8",
+name: "Monza Parco",
+lat: "45.603073",
+lon: "9.276156",
+fk_region: "9"
+},
+{
+pk_device: "421",
+fk_devicetype: "8",
+name: "Vimercate",
+lat: "45.611744",
+lon: "9.3677",
+fk_region: "9"
+},
+{
+pk_device: "422",
+fk_devicetype: "8",
+name: "Arese",
+lat: "45.543438",
+lon: "9.080729",
+fk_region: "9"
+},
+{
+pk_device: "423",
+fk_devicetype: "8",
+name: "Cinisello Balsamo",
+lat: "45.55233",
+lon: "9.227766",
+fk_region: "9"
+},
+{
+pk_device: "424",
+fk_devicetype: "8",
+name: "Cormano",
+lat: "45.547596",
+lon: "9.166983",
+fk_region: "9"
+},
+{
+pk_device: "425",
+fk_devicetype: "8",
+name: "Corsico",
+lat: "45.43611",
+lon: "9.097412",
+fk_region: "9"
+},
+{
+pk_device: "426",
+fk_devicetype: "8",
+name: "Garbagnate",
+lat: "45.57172",
+lon: "9.078245",
+fk_region: "9"
+},
+{
+pk_device: "427",
+fk_devicetype: "8",
+name: "Legnano",
+lat: "45.59539",
+lon: "8.922039",
+fk_region: "9"
+},
+{
+pk_device: "428",
+fk_devicetype: "8",
+name: "Limito di Pioltello",
+lat: "45.48363",
+lon: "9.327359",
+fk_region: "9"
+},
+{
+pk_device: "429",
+fk_devicetype: "8",
+name: "Milano Abbiategrasso",
+lat: "45.4322",
+lon: "9.182152",
+fk_region: "9"
+},
+{
+pk_device: "430",
+fk_devicetype: "8",
+name: "Milano Liguria",
+lat: "45.44386",
+lon: "9.167945",
+fk_region: "9"
+},
+{
+pk_device: "431",
+fk_devicetype: "8",
+name: "Milano Marche",
+lat: "45.49632",
+lon: "9.190934",
+fk_region: "9"
+},
+{
+pk_device: "432",
+fk_devicetype: "8",
+name: "Milano Parco Lambro",
+lat: "45.499584",
+lon: "9.247327",
+fk_region: "9"
+},
+{
+pk_device: "433",
+fk_devicetype: "8",
+name: "Milano Pascal CittÃ  Studi",
+lat: "45.478348",
+lon: "9.231667",
+fk_region: "9"
+},
+{
+pk_device: "434",
+fk_devicetype: "8",
+name: "Milano Senato",
+lat: "45.4705",
+lon: "9.197461",
+fk_region: "9"
+},
+{
+pk_device: "435",
+fk_devicetype: "8",
+name: "Milano Verziere",
+lat: "45.46335",
+lon: "9.195325",
+fk_region: "9"
+},
+{
+pk_device: "436",
+fk_devicetype: "8",
+name: "Milano Zavattari",
+lat: "45.476067",
+lon: "9.141788",
+fk_region: "9"
+},
+{
+pk_device: "437",
+fk_devicetype: "8",
+name: "Pero",
+lat: "45.509857",
+lon: "9.089974",
+fk_region: "9"
+},
+{
+pk_device: "438",
+fk_devicetype: "8",
+name: "Rho",
+lat: "45.52343",
+lon: "9.044602",
+fk_region: "9"
+},
+{
+pk_device: "439",
+fk_devicetype: "8",
+name: "Sesto San Giovanni",
+lat: "45.534767",
+lon: "9.236109",
+fk_region: "9"
+},
+{
+pk_device: "440",
+fk_devicetype: "8",
+name: "Settimo Milanese",
+lat: "45.480274",
+lon: "9.056864",
+fk_region: "9"
+},
+{
+pk_device: "441",
+fk_devicetype: "8",
+name: "Busto Arsizio Accam",
+lat: "45.582886",
+lon: "8.834493",
+fk_region: "9"
+},
+{
+pk_device: "442",
+fk_devicetype: "8",
+name: "Busto Arsizio Magenta",
+lat: "45.61074",
+lon: "8.850121",
+fk_region: "9"
+},
+{
+pk_device: "443",
+fk_devicetype: "8",
+name: "Gallarate San Lorenzo",
+lat: "45.657463",
+lon: "8.797578",
+fk_region: "9"
+},
+{
+pk_device: "444",
+fk_devicetype: "8",
+name: "Saronno Santuario",
+lat: "45.626102",
+lon: "9.025004",
+fk_region: "9"
+},
+{
+pk_device: "445",
+fk_devicetype: "8",
+name: "Calusco",
+lat: "45.690437",
+lon: "9.4842615",
+fk_region: "9"
+},
+{
+pk_device: "446",
+fk_devicetype: "8",
+name: "Lonato",
+lat: "45.463757",
+lon: "10.480782",
+fk_region: "9"
+},
+{
+pk_device: "447",
+fk_devicetype: "8",
+name: "Erba",
+lat: "45.80853",
+lon: "9.221707",
+fk_region: "9"
+},
+{
+pk_device: "448",
+fk_devicetype: "8",
+name: "Cremona Cadorna",
+lat: "45.13195",
+lon: "10.01574",
+fk_region: "9"
+},
+{
+pk_device: "449",
+fk_devicetype: "8",
+name: "Cremona Fatebenefratelli",
+lat: "45.142544",
+lon: "10.043848",
+fk_region: "9"
+},
+{
+pk_device: "450",
+fk_devicetype: "8",
+name: "Cremona via Gerre Borghi",
+lat: "45.109543",
+lon: "10.069242",
+fk_region: "9"
+},
+{
+pk_device: "451",
+fk_devicetype: "8",
+name: "Rivolta d`Adda",
+lat: "45.468555",
+lon: "9.511355",
+fk_region: "9"
+},
+{
+pk_device: "452",
+fk_devicetype: "8",
+name: "Spinadesco",
+lat: "45.150475",
+lon: "9.930598",
+fk_region: "9"
+},
+{
+pk_device: "453",
+fk_devicetype: "8",
+name: "Calolziocorte",
+lat: "45.8021",
+lon: "9.42947",
+fk_region: "9"
+},
+{
+pk_device: "454",
+fk_devicetype: "8",
+name: "Lecco Via Amendola",
+lat: "45.850197",
+lon: "9.395581",
+fk_region: "9"
+},
+{
+pk_device: "455",
+fk_devicetype: "8",
+name: "Lecco Via Sora",
+lat: "45.863754",
+lon: "9.399955",
+fk_region: "9"
+},
+{
+pk_device: "456",
+fk_devicetype: "8",
+name: "Nibionno",
+lat: "45.751118",
+lon: "9.265024",
+fk_region: "9"
+},
+{
+pk_device: "457",
+fk_devicetype: "8",
+name: "Valmadrera",
+lat: "45.842213",
+lon: "9.351663",
+fk_region: "9"
+},
+{
+pk_device: "458",
+fk_devicetype: "8",
+name: "Lodi S. Alberto",
+lat: "45.302788",
+lon: "9.495286",
+fk_region: "9"
+},
+{
+pk_device: "459",
+fk_devicetype: "8",
+name: "Lodi via Vignati",
+lat: "45.306015",
+lon: "9.485275",
+fk_region: "9"
+},
+{
+pk_device: "460",
+fk_devicetype: "8",
+name: "Montanaso",
+lat: "45.336136",
+lon: "9.452553",
+fk_region: "9"
+},
+{
+pk_device: "461",
+fk_devicetype: "8",
+name: "Tavazzano",
+lat: "45.330364",
+lon: "9.414643",
+fk_region: "9"
+},
+{
+pk_device: "462",
+fk_devicetype: "8",
+name: "Abbiategrasso",
+lat: "45.39541",
+lon: "8.913418",
+fk_region: "9"
+},
+{
+pk_device: "463",
+fk_devicetype: "8",
+name: "Arconate",
+lat: "45.548523",
+lon: "8.847326",
+fk_region: "9"
+},
+{
+pk_device: "464",
+fk_devicetype: "8",
+name: "Cassano d`Adda",
+lat: "45.520008",
+lon: "9.512232",
+fk_region: "9"
+},
+{
+pk_device: "465",
+fk_devicetype: "8",
+name: "Cassano d`Adda 2",
+lat: "45.526474",
+lon: "9.515991",
+fk_region: "9"
+},
+{
+pk_device: "466",
+fk_devicetype: "8",
+name: "Cuggiono",
+lat: "45.501488",
+lon: "8.804459",
+fk_region: "9"
+},
+{
+pk_device: "467",
+fk_devicetype: "8",
+name: "Inzago",
+lat: "45.53977",
+lon: "9.4868965",
+fk_region: "9"
+},
+{
+pk_device: "468",
+fk_devicetype: "8",
+name: "Magenta",
+lat: "45.46242",
+lon: "8.880214",
+fk_region: "9"
+},
+{
+pk_device: "469",
+fk_devicetype: "8",
+name: "Trezzo sull`Adda",
+lat: "45.6137",
+lon: "9.508134",
+fk_region: "9"
+},
+{
+pk_device: "470",
+fk_devicetype: "8",
+name: "Truccazzano",
+lat: "45.48456",
+lon: "9.471347",
+fk_region: "9"
+},
+{
+pk_device: "471",
+fk_devicetype: "8",
+name: "Mantova Ariosto",
+lat: "45.145267",
+lon: "10.803335",
+fk_region: "9"
+},
+{
+pk_device: "472",
+fk_devicetype: "8",
+name: "Mantova Gramsci",
+lat: "45.151752",
+lon: "10.781417",
+fk_region: "9"
+},
+{
+pk_device: "473",
+fk_devicetype: "8",
+name: "Mantova Lunetta 2",
+lat: "45.157993",
+lon: "10.82394",
+fk_region: "9"
+},
+{
+pk_device: "474",
+fk_devicetype: "8",
+name: "Mantova S.Agnese",
+lat: "45.160576",
+lon: "10.795573",
+fk_region: "9"
+},
+{
+pk_device: "475",
+fk_devicetype: "8",
+name: "Mantova Tridolino",
+lat: "45.153328",
+lon: "10.859272",
+fk_region: "9"
+},
+{
+pk_device: "476",
+fk_devicetype: "8",
+name: "Marmirolo Fontana",
+lat: "45.208187",
+lon: "10.742648",
+fk_region: "9"
+},
+{
+pk_device: "477",
+fk_devicetype: "8",
+name: "Porto Mantovano",
+lat: "45.19555",
+lon: "10.797273",
+fk_region: "9"
+},
+{
+pk_device: "478",
+fk_devicetype: "8",
+name: "Pavia Folperti",
+lat: "45.194683",
+lon: "9.164649",
+fk_region: "9"
+},
+{
+pk_device: "479",
+fk_devicetype: "8",
+name: "Pavia Minerva",
+lat: "45.186337",
+lon: "9.146677",
+fk_region: "9"
+},
+{
+pk_device: "480",
+fk_devicetype: "8",
+name: "Vigevano Valletta",
+lat: "45.303616",
+lon: "8.844806",
+fk_region: "9"
+},
+{
+pk_device: "481",
+fk_devicetype: "8",
+name: "Ferno",
+lat: "45.619247",
+lon: "8.756976",
+fk_region: "9"
+},
+{
+pk_device: "482",
+fk_devicetype: "8",
+name: "Lonate Pozzolo",
+lat: "45.59403",
+lon: "8.740803",
+fk_region: "9"
+},
+{
+pk_device: "483",
+fk_devicetype: "8",
+name: "MXP Somma",
+lat: "45.64954",
+lon: "8.712699",
+fk_region: "9"
+},
+{
+pk_device: "484",
+fk_devicetype: "8",
+name: "Varese Copelli",
+lat: "45.816975",
+lon: "8.82025",
+fk_region: "9"
+},
+{
+pk_device: "485",
+fk_devicetype: "8",
+name: "Varese Vidoletti",
+lat: "45.836903",
+lon: "8.803935",
+fk_region: "9"
+},
+{
+pk_device: "486",
+fk_devicetype: "8",
+name: "Gambara",
+lat: "45.249554",
+lon: "10.29913",
+fk_region: "9"
+},
+{
+pk_device: "487",
+fk_devicetype: "8",
+name: "Manerbio",
+lat: "45.34996",
+lon: "10.144753",
+fk_region: "9"
+},
+{
+pk_device: "488",
+fk_devicetype: "8",
+name: "Corte dÃ¨ Cortesi",
+lat: "45.27849",
+lon: "10.006206",
+fk_region: "9"
+},
+{
+pk_device: "489",
+fk_devicetype: "8",
+name: "Crema XI febbraio",
+lat: "45.36631",
+lon: "9.703952",
+fk_region: "9"
+},
+{
+pk_device: "490",
+fk_devicetype: "8",
+name: "Piadena",
+lat: "45.129795",
+lon: "10.379837",
+fk_region: "9"
+},
+{
+pk_device: "491",
+fk_devicetype: "8",
+name: "Soresina",
+lat: "45.28398",
+lon: "9.863402",
+fk_region: "9"
+},
+{
+pk_device: "492",
+fk_devicetype: "8",
+name: "Abbadia Cerreto",
+lat: "45.309505",
+lon: "9.5858",
+fk_region: "9"
+},
+{
+pk_device: "493",
+fk_devicetype: "8",
+name: "Bertonico",
+lat: "45.233498",
+lon: "9.666258",
+fk_region: "9"
+},
+{
+pk_device: "494",
+fk_devicetype: "8",
+name: "Castiraga",
+lat: "45.26233",
+lon: "9.400291",
+fk_region: "9"
+},
+{
+pk_device: "495",
+fk_devicetype: "8",
+name: "Codogno",
+lat: "45.159378",
+lon: "9.6981535",
+fk_region: "9"
+},
+{
+pk_device: "496",
+fk_devicetype: "8",
+name: "S. Rocco al Porto",
+lat: "45.081993",
+lon: "9.700792",
+fk_region: "9"
+},
+{
+pk_device: "497",
+fk_devicetype: "8",
+name: "Turano",
+lat: "45.250286",
+lon: "9.621267",
+fk_region: "9"
+},
+{
+pk_device: "498",
+fk_devicetype: "8",
+name: "Lacchiarella",
+lat: "45.324524",
+lon: "9.134529",
+fk_region: "9"
+},
+{
+pk_device: "499",
+fk_devicetype: "8",
+name: "Melegnano",
+lat: "45.35429",
+lon: "9.329242",
+fk_region: "9"
+},
+{
+pk_device: "500",
+fk_devicetype: "8",
+name: "Motta Visconti",
+lat: "45.281963",
+lon: "8.988576",
+fk_region: "9"
+},
+{
+pk_device: "501",
+fk_devicetype: "8",
+name: "Borgofranco",
+lat: "45.0465",
+lon: "11.180949",
+fk_region: "9"
+},
+{
+pk_device: "502",
+fk_devicetype: "8",
+name: "Magnacavallo",
+lat: "45.005142",
+lon: "11.178401",
+fk_region: "9"
+},
+{
+pk_device: "503",
+fk_devicetype: "8",
+name: "Monzambano",
+lat: "45.38916",
+lon: "10.69058",
+fk_region: "9"
+},
+{
+pk_device: "504",
+fk_devicetype: "8",
+name: "Ostiglia",
+lat: "45.07331",
+lon: "11.137035",
+fk_region: "9"
+},
+{
+pk_device: "505",
+fk_devicetype: "8",
+name: "Pieve di Coriano",
+lat: "45.033947",
+lon: "11.11692",
+fk_region: "9"
+},
+{
+pk_device: "506",
+fk_devicetype: "8",
+name: "Ponti sul Mincio",
+lat: "45.412777",
+lon: "10.683362",
+fk_region: "9"
+},
+{
+pk_device: "507",
+fk_devicetype: "8",
+name: "Sermide",
+lat: "45.004616",
+lon: "11.294024",
+fk_region: "9"
+},
+{
+pk_device: "508",
+fk_devicetype: "8",
+name: "Viadana",
+lat: "44.924698",
+lon: "10.517504",
+fk_region: "9"
+},
+{
+pk_device: "509",
+fk_devicetype: "8",
+name: "Casoni Borroni",
+lat: "45.069668",
+lon: "8.868902",
+fk_region: "9"
+},
+{
+pk_device: "510",
+fk_devicetype: "8",
+name: "Cornale",
+lat: "45.040085",
+lon: "8.914157",
+fk_region: "9"
+},
+{
+pk_device: "511",
+fk_devicetype: "8",
+name: "Ferrera Erbognone Est",
+lat: "45.11351",
+lon: "8.874078",
+fk_region: "9"
+},
+{
+pk_device: "512",
+fk_devicetype: "8",
+name: "Ferrera Erbognone Indipendenza",
+lat: "45.110832",
+lon: "8.868757",
+fk_region: "9"
+},
+{
+pk_device: "513",
+fk_devicetype: "8",
+name: "Galliavola",
+lat: "45.09513",
+lon: "8.820321",
+fk_region: "9"
+},
+{
+pk_device: "514",
+fk_devicetype: "8",
+name: "Mortara",
+lat: "45.254738",
+lon: "8.744156",
+fk_region: "9"
+},
+{
+pk_device: "515",
+fk_devicetype: "8",
+name: "Parona",
+lat: "45.281944",
+lon: "8.754336",
+fk_region: "9"
+},
+{
+pk_device: "516",
+fk_devicetype: "8",
+name: "Sannazzaro de Burgondi",
+lat: "45.102776",
+lon: "8.904187",
+fk_region: "9"
+},
+{
+pk_device: "517",
+fk_devicetype: "8",
+name: "Scaldasole",
+lat: "45.1244",
+lon: "8.911768",
+fk_region: "9"
+},
+{
+pk_device: "518",
+fk_devicetype: "8",
+name: "Voghera Pozzoni",
+lat: "44.999554",
+lon: "9.00845",
+fk_region: "9"
+},
+{
+pk_device: "519",
+fk_devicetype: "8",
+name: "Costa Volpino",
+lat: "45.82716",
+lon: "10.097072",
+fk_region: "9"
+},
+{
+pk_device: "520",
+fk_devicetype: "8",
+name: "Tavernola",
+lat: "45.716305",
+lon: "10.044774",
+fk_region: "9"
+},
+{
+pk_device: "521",
+fk_devicetype: "8",
+name: "Breno",
+lat: "45.956837",
+lon: "10.301065",
+fk_region: "9"
+},
+{
+pk_device: "522",
+fk_devicetype: "8",
+name: "Colico",
+lat: "46.12409",
+lon: "9.391123",
+fk_region: "9"
+},
+{
+pk_device: "523",
+fk_devicetype: "8",
+name: "Moggio",
+lat: "45.912792",
+lon: "9.497542",
+fk_region: "9"
+},
+{
+pk_device: "524",
+fk_devicetype: "8",
+name: "Bormio",
+lat: "46.46618",
+lon: "10.370589",
+fk_region: "9"
+},
+{
+pk_device: "525",
+fk_devicetype: "8",
+name: "Darfo",
+lat: "45.874603",
+lon: "10.177365",
+fk_region: "9"
+},
+{
+pk_device: "526",
+fk_devicetype: "8",
+name: "Chiavenna",
+lat: "46.320812",
+lon: "9.395592",
+fk_region: "9"
+},
+{
+pk_device: "527",
+fk_devicetype: "8",
+name: "Morbegno",
+lat: "46.135487",
+lon: "9.56624",
+fk_region: "9"
+},
+{
+pk_device: "528",
+fk_devicetype: "8",
+name: "Sondrio via Mazzini",
+lat: "46.167973",
+lon: "9.870146",
+fk_region: "9"
+},
+{
+pk_device: "529",
+fk_devicetype: "8",
+name: "Sondrio via Paribelli",
+lat: "46.16786",
+lon: "9.879211",
+fk_region: "9"
+},
+{
+pk_device: "530",
+fk_devicetype: "8",
+name: "Tirano",
+lat: "46.216293",
+lon: "10.170397",
+fk_region: "9"
+},
+{
+pk_device: "531",
+fk_devicetype: "8",
+name: "Galliate",
+lat: "45.489563",
+lon: "8.737792",
+fk_region: "9"
+},
+{
+pk_device: "532",
+fk_devicetype: "8",
+name: "Ceneselli",
+lat: "45.01346",
+lon: "11.372581",
+fk_region: "9"
+},
+{
+pk_device: "533",
+fk_devicetype: "8",
+name: "Salionze",
+lat: "45.403316",
+lon: "10.726602",
+fk_region: "9"
+},
+{
+pk_device: "534",
+fk_devicetype: "8",
+name: "Corso Firenze - Genova",
+lat: "44.418083",
+lon: "8.931648",
+fk_region: "8"
+},
+{
+pk_device: "535",
+fk_devicetype: "15",
+name: "Multedo Villa Chiesa - Genova",
+lat: "44.426163",
+lon: "8.829607",
+fk_region: "8"
+},
+{
+pk_device: "536",
+fk_devicetype: "2",
+name: "Campo Sportivo Rapallo",
+lat: "44.35006",
+lon: "9.226214",
+fk_region: "8"
+},
+{
+pk_device: "537",
+fk_devicetype: "2",
+name: "Sarzana",
+lat: "44.112316",
+lon: "9.956159",
+fk_region: "8"
+},
+{
+pk_device: "538",
+fk_devicetype: "9",
+name: "La Thuile - Les Granges",
+lat: "45.7369",
+lon: "6.96684",
+fk_region: "19"
+},
+{
+pk_device: "539",
+fk_devicetype: "2",
+name: "Potenza - Viale Firenze",
+lat: "40.649208",
+lon: "15.795197",
+fk_region: "2"
+},
+{
+pk_device: "540",
+fk_devicetype: "7",
+name: "Potenza - San Luca Branca",
+lat: "40.64389",
+lon: "15.873073",
+fk_region: "2"
+},
+{
+pk_device: "541",
+fk_devicetype: "7",
+name: "Melfi - C.da Agna",
+lat: "40.991314",
+lon: "15.640009",
+fk_region: "2"
+},
+{
+pk_device: "542",
+fk_devicetype: "7",
+name: "Lavello - Campo sportivo",
+lat: "41.04803",
+lon: "15.78538",
+fk_region: "2"
+},
+{
+pk_device: "543",
+fk_devicetype: "7",
+name: "Ferrandina - Zona industriale",
+lat: "40.484814",
+lon: "16.50084",
+fk_region: "2"
+},
+{
+pk_device: "544",
+fk_devicetype: "7",
+name: "Viggiano - Zona industriale",
+lat: "40.314075",
+lon: "15.904694",
+fk_region: "2"
+},
+{
+pk_device: "545",
+fk_devicetype: "8",
+name: "Muggia - MUGGIA",
+lat: "45.60858",
+lon: "13.750597",
+fk_region: "6"
+},
+{
+pk_device: "546",
+fk_devicetype: "8",
+name: "Mezzo Mobile (*) via S.Lorenzo in S. (staz. RFI) - TRIESTE",
+lat: "45.622417",
+lon: "13.780108",
+fk_region: "6"
+},
+{
+pk_device: "547",
+fk_devicetype: "8",
+name: "Monte S. Pantaleone - TRIESTE",
+lat: "45.618736",
+lon: "13.794506",
+fk_region: "6"
+},
+{
+pk_device: "548",
+fk_devicetype: "8",
+name: "P.zza Liberta - TRIESTE",
+lat: "45.657223",
+lon: "13.772739",
+fk_region: "6"
+},
+{
+pk_device: "549",
+fk_devicetype: "8",
+name: "Via Carpineto - TRIESTE",
+lat: "45.62319",
+lon: "13.787457",
+fk_region: "6"
+},
+{
+pk_device: "550",
+fk_devicetype: "8",
+name: "Via Pitacco - TRIESTE",
+lat: "45.624207",
+lon: "13.78026",
+fk_region: "6"
+},
+{
+pk_device: "551",
+fk_devicetype: "8",
+name: "Via Svevo - TRIESTE",
+lat: "45.630333",
+lon: "13.7807865",
+fk_region: "6"
+},
+{
+pk_device: "552",
+fk_devicetype: "8",
+name: "Via Tor Bandena - TRIESTE",
+lat: "45.650097",
+lon: "13.771035",
+fk_region: "6"
+},
+{
+pk_device: "553",
+fk_devicetype: "8",
+name: "Morsano - MORSANO AL TAGLIAMENTO",
+lat: "45.856926",
+lon: "12.925898",
+fk_region: "6"
+},
+{
+pk_device: "554",
+fk_devicetype: "8",
+name: "Filago Centro",
+lat: "45.633873",
+lon: "9.556096",
+fk_region: "9"
+},
+{
+pk_device: "555",
+fk_devicetype: "8",
+name: "Brescia Broletto",
+lat: "45.540066",
+lon: "10.22282",
+fk_region: "9"
+},
+{
+pk_device: "556",
+fk_devicetype: "8",
+name: "Fino Mornasco",
+lat: "45.748047",
+lon: "9.042599",
+fk_region: "9"
+},
+{
+pk_device: "557",
+fk_devicetype: "8",
+name: "Casirate d`Adda",
+lat: "45.498226",
+lon: "9.556242",
+fk_region: "9"
+},
+{
+pk_device: "558",
+fk_devicetype: "8",
+name: "Ospitaletto",
+lat: "45.553257",
+lon: "10.084922",
+fk_region: "9"
+},
+{
+pk_device: "559",
+fk_devicetype: "8",
+name: "Castano Primo",
+lat: "45.545948",
+lon: "8.77611",
+fk_region: "9"
+},
+{
+pk_device: "560",
+fk_devicetype: "8",
+name: "Robecchetto",
+lat: "45.517826",
+lon: "8.766567",
+fk_region: "9"
+},
+{
+pk_device: "561",
+fk_devicetype: "8",
+name: "San Giuliano Milanese",
+lat: "45.3962",
+lon: "9.282699",
+fk_region: "9"
+},
+{
+pk_device: "562",
+fk_devicetype: "8",
+name: "Turbigo",
+lat: "45.526558",
+lon: "8.736502",
+fk_region: "9"
+},
+{
+pk_device: "563",
+fk_devicetype: "8",
+name: "Schivenoglia",
+lat: "45.01688",
+lon: "11.0760975",
+fk_region: "9"
+},
+{
+pk_device: "564",
+fk_devicetype: "8",
+name: "Odolo",
+lat: "45.646053",
+lon: "10.389297",
+fk_region: "9"
+},
+{
+pk_device: "565",
+fk_devicetype: "8",
+name: "Perledo",
+lat: "46.01583",
+lon: "9.28642",
+fk_region: "9"
+},
+{
+pk_device: "566",
+fk_devicetype: "8",
+name: "Melara",
+lat: "45.06234",
+lon: "11.211381",
+fk_region: "9"
+},
+{
+pk_device: "567",
+fk_devicetype: "9",
+name: "Lecce - S. Maria Cerrate",
+lat: "40.459698",
+lon: "18.116386",
+fk_region: "13"
+},
+{
+pk_device: "568",
+fk_devicetype: "21",
+name: "Lendinuso",
+lat: "40.5175",
+lon: "18.07888",
+fk_region: "13"
+},
+{
+pk_device: "569",
+fk_devicetype: "7",
+name: "Potenza - Parco Rossellino",
+lat: "40.62552",
+lon: "15.811611",
+fk_region: "2"
+},
+{
+pk_device: "570",
+fk_devicetype: "2",
+name: "Potenza - Viale Unicef",
+lat: "40.62802",
+lon: "15.796258",
+fk_region: "2"
+},
+{
+pk_device: "571",
+fk_devicetype: "17",
+name: "EN05",
+lat: "41.061386",
+lon: "16.70083",
+fk_region: "13"
+},
+{
+pk_device: "572",
+fk_devicetype: "8",
+name: "Perugia - Fontivegge",
+lat: "43.104897",
+lon: "12.374645",
+fk_region: "18"
+},
+{
+pk_device: "573",
+fk_devicetype: "2",
+name: "Corso Europa - Via S. Martino - Genova",
+lat: "44.40489",
+lon: "8.967613",
+fk_region: "8"
+},
+{
+pk_device: "574",
+fk_devicetype: "8",
+name: "LU-Autolaboratorio-Fornoli",
+lat: "44.005215",
+lon: "10.555318",
+fk_region: "16"
+},
+{
+pk_device: "575",
+fk_devicetype: "7",
+name: "San Nicola di Melfi - Zona industriale",
+lat: "41.066444",
+lon: "15.722827",
+fk_region: "2"
+},
+{
+pk_device: "576",
+fk_devicetype: "17",
+name: "Aosta - Pépinière",
+lat: "45.730625",
+lon: "7.329796",
+fk_region: "19"
+},
+{
+pk_device: "577",
+fk_devicetype: "21",
+name: "Azienda Russo",
+lat: "41.546665",
+lon: "15.440833",
+fk_region: "13"
+},
+{
+pk_device: "578",
+fk_devicetype: "7",
+name: "Matera - La Martella",
+lat: "40.686707",
+lon: "16.547028",
+fk_region: "2"
+},
+{
+pk_device: "579",
+fk_devicetype: "9",
+name: "GAVELLO",
+lat: "449.2877",
+lon: "11.178946",
+fk_region: "5"
+},
+{
+pk_device: "580",
+fk_devicetype: "8",
+name: "CITTADELLA",
+lat: "44.79242",
+lon: "10.330985",
+fk_region: "5"
+},
+{
+pk_device: "581",
+fk_devicetype: "2",
+name: "MONTEBELLO",
+lat: "44.786636",
+lon: "10.336477",
+fk_region: "5"
+},
+{
+pk_device: "582",
+fk_devicetype: "8",
+name: "Pitelli - La Spezia",
+lat: "44.0963",
+lon: "9.882413",
+fk_region: "8"
+},
+{
+pk_device: "583",
+fk_devicetype: "8",
+name: "LU-San-Concordio",
+lat: "43.83357",
+lon: "10.501931",
+fk_region: "16"
+},
+{
+pk_device: "584",
+fk_devicetype: "2",
+name: "MS-Marina-Vecchia",
+lat: "44.027298",
+lon: "10.127446",
+fk_region: "16"
+},
+{
+pk_device: "585",
+fk_devicetype: "9",
+name: "Cengio - Rio Parasacco",
+lat: "44.39482",
+lon: "8.207422",
+fk_region: "8"
+},
+{
+pk_device: "586",
+fk_devicetype: "8",
+name: "Mezzo Mobile Arpa Pn - AZZANO DECIMO",
+lat: "45.885548",
+lon: "12.70904",
+fk_region: "6"
+},
+{
+pk_device: "587",
+fk_devicetype: "8",
+name: "Pordenone Centro 1 - PORDENONE",
+lat: "45.95994",
+lon: "12.662508",
+fk_region: "6"
+},
+{
+pk_device: "588",
+fk_devicetype: "17",
+name: "Mezzo Mobile - Via Trani",
+lat: "41.318054",
+lon: "16.294167",
+fk_region: "13"
+},
+{
+pk_device: "589",
+fk_devicetype: "2",
+name: "Brindisi - Via dei Mille",
+lat: "40.63875",
+lon: "17.938152",
+fk_region: "13"
+},
+{
+pk_device: "590",
+fk_devicetype: "8",
+name: "Brindisi - Casale",
+lat: "40.65008",
+lon: "17.94257",
+fk_region: "13"
+},
+{
+pk_device: "591",
+fk_devicetype: "17",
+name: "Brindisi - SISRI",
+lat: "40.624737",
+lon: "17.97504",
+fk_region: "13"
+},
+{
+pk_device: "592",
+fk_devicetype: "8",
+name: "Brindisi - Perrino",
+lat: "40.63136",
+lon: "17.954779",
+fk_region: "13"
+},
+{
+pk_device: "593",
+fk_devicetype: "2",
+name: "Brindisi - Cappuccini",
+lat: "40.630917",
+lon: "17.921778",
+fk_region: "13"
+},
+{
+pk_device: "594",
+fk_devicetype: "14",
+name: "Galatina - I.T.C. La Porta",
+lat: "40.166946",
+lon: "18.174725",
+fk_region: "13"
+},
+{
+pk_device: "595",
+fk_devicetype: "14",
+name: "Brindisi - Terminal Passeggeri",
+lat: "40.64743",
+lon: "17.961687",
+fk_region: "13"
+},
+{
+pk_device: "596",
+fk_devicetype: "17",
+name: "Torchiarolo-Via Fanin SN",
+lat: "40.48945",
+lon: "18.047226",
+fk_region: "13"
+},
+{
+pk_device: "597",
+fk_devicetype: "20",
+name: "TV - Strada S. Agnese",
+lat: "45.654408",
+lon: "12.211395",
+fk_region: "20"
+},
+{
+pk_device: "598",
+fk_devicetype: "2",
+name: "Largo Pertini - Sarzana",
+lat: "44.111",
+lon: "9.95543",
+fk_region: "8"
+},
+{
+pk_device: "599",
+fk_devicetype: "2",
+name: "Lecce - Libertini",
+lat: "40.351944",
+lon: "18.176666",
+fk_region: "13"
+},
+{
+pk_device: "600",
+fk_devicetype: "8",
+name: "LU-Autolaboratorio-Fornaci-Di-Barga",
+lat: "44.008446",
+lon: "10.458203",
+fk_region: "16"
+},
+{
+pk_device: "601",
+fk_devicetype: "8",
+name: "LU-Fornoli",
+lat: "44.005863",
+lon: "10.55994",
+fk_region: "16"
+},
+{
+pk_device: "602",
+fk_devicetype: "8",
+name: "PARCO BERTOZZI",
+lat: "44.28561",
+lon: "11.873396",
+fk_region: "5"
+},
+{
+pk_device: "603",
+fk_devicetype: "2",
+name: "GR-Sonnino",
+lat: "42.75959",
+lon: "11.109663",
+fk_region: "16"
+},
+{
+pk_device: "604",
+fk_devicetype: "20",
+name: "VR - Giarol Grande",
+lat: "45.432987",
+lon: "11.030336",
+fk_region: "20"
+},
+{
+pk_device: "605",
+fk_devicetype: "8",
+name: "piazza Carlo Alberto - TRIESTE",
+lat: "45.642757",
+lon: "13.75587",
+fk_region: "6"
+},
+{
+pk_device: "606",
+fk_devicetype: "8",
+name: "MMArpa v.Ruffo - SACILE",
+lat: "45.95494",
+lon: "12.495928",
+fk_region: "6"
+},
+{
+pk_device: "607",
+fk_devicetype: "17",
+name: "Mezzo Mobile - IperCoop",
+lat: "41.318333",
+lon: "16.293055",
+fk_region: "13"
+},
+{
+pk_device: "608",
+fk_devicetype: "8",
+name: "Basovizza - TRIESTE",
+lat: "45.64749",
+lon: "13.855084",
+fk_region: "6"
+},
+{
+pk_device: "609",
+fk_devicetype: "8",
+name: "piazza Volontari Giuliani - TRIESTE",
+lat: "45.654285",
+lon: "13.789038",
+fk_region: "6"
+},
+{
+pk_device: "610",
+fk_devicetype: "8",
+name: "FI-Figline",
+lat: "43.62297",
+lon: "11.466787",
+fk_region: "16"
+},
+{
+pk_device: "611",
+fk_devicetype: "8",
+name: "PI-Autolaboratorio-3-San-Romano",
+lat: "43.68983",
+lon: "10.764559",
+fk_region: "16"
+},
+{
+pk_device: "612",
+fk_devicetype: "14",
+name: "Via Ungaretti - Pegli - Genova",
+lat: "44.43084",
+lon: "8.800036",
+fk_region: "8"
+},
+{
+pk_device: "613",
+fk_devicetype: "8",
+name: "Follo",
+lat: "44.168133",
+lon: "9.846414",
+fk_region: "8"
+},
+{
+pk_device: "614",
+fk_devicetype: "8",
+name: "Piancastagnaio",
+lat: "42.852184",
+lon: "11.697248",
+fk_region: "16"
+},
+{
+pk_device: "615",
+fk_devicetype: "8",
+name: "Enna EN",
+lat: "37.56438",
+lon: "14.28182",
+fk_region: "15"
+},
+{
+pk_device: "616",
+fk_devicetype: "17",
+name: "Ex Autoparco CL",
+lat: "37.05662",
+lon: "14.296921",
+fk_region: "15"
+},
+{
+pk_device: "617",
+fk_devicetype: "7",
+name: "Parcheggio Agip CL",
+lat: "37.059837",
+lon: "14.264962",
+fk_region: "15"
+},
+{
+pk_device: "618",
+fk_devicetype: "14",
+name: "Partinico PA",
+lat: "38.049686",
+lon: "13.118669",
+fk_region: "15"
+},
+{
+pk_device: "619",
+fk_devicetype: "8",
+name: "C.da Marcellino SR",
+lat: "37.222008",
+lon: "15.168357",
+fk_region: "15"
+},
+{
+pk_device: "620",
+fk_devicetype: "22",
+name: "Trapani TP",
+lat: "38.012367",
+lon: "12.5469",
+fk_region: "15"
+},
+{
+pk_device: "621",
+fk_devicetype: "14",
+name: "Termini Imerese PA",
+lat: "37.977882",
+lon: "13.688047",
+fk_region: "15"
+},
+{
+pk_device: "622",
+fk_devicetype: "7",
+name: "C.da Gabbia ME",
+lat: "38.205364",
+lon: "15.307725",
+fk_region: "15"
+},
+{
+pk_device: "623",
+fk_devicetype: "14",
+name: "Termica Milazzo ME",
+lat: "38.19061",
+lon: "15.249239",
+fk_region: "15"
+},
+{
+pk_device: "624",
+fk_devicetype: "14",
+name: "Misterbianco CT",
+lat: "37.51567",
+lon: "15.010687",
+fk_region: "15"
+},
+{
+pk_device: "625",
+fk_devicetype: "7",
+name: "Megara SR",
+lat: "37.19441",
+lon: "15.183118",
+fk_region: "15"
+},
+{
+pk_device: "626",
+fk_devicetype: "8",
+name: "CAPACI",
+lat: "38.176743",
+lon: "13.22984",
+fk_region: "15"
+},
+{
+pk_device: "627",
+fk_devicetype: "8",
+name: "PORTO EMPEDOCLE",
+lat: "37.291214",
+lon: "13.498456",
+fk_region: "15"
+},
+{
+pk_device: "628",
+fk_devicetype: "8",
+name: "VILLA AUGUSTA",
+lat: "37.23253",
+lon: "15.218389",
+fk_region: "15"
+},
+{
+pk_device: "629",
+fk_devicetype: "8",
+name: "ISOLA DELLE FEMMINE",
+lat: "38.191757",
+lon: "13.239257",
+fk_region: "15"
+},
+{
+pk_device: "630",
+fk_devicetype: "9",
+name: "CASTELLUCCIO",
+lat: "44.14044",
+lon: "10.917166",
+fk_region: "5"
+},
+{
+pk_device: "631",
+fk_devicetype: "2",
+name: "Bolzano 4 - Via C.Augusta",
+lat: "46.483437",
+lon: "11.34097",
+fk_region: "17"
+},
+{
+pk_device: "632",
+fk_devicetype: "2",
+name: "Bolzano 5 - Piazza Adriano",
+lat: "46.49613",
+lon: "11.337088",
+fk_region: "17"
+},
+{
+pk_device: "633",
+fk_devicetype: "2",
+name: "Bolzano 6 - Via Amba Alagi giardino",
+lat: "46.498894",
+lon: "11.339591",
+fk_region: "17"
+},
+{
+pk_device: "634",
+fk_devicetype: "2",
+name: "Merano - Via Trogmann",
+lat: "46.662247",
+lon: "11.160151",
+fk_region: "17"
+},
+{
+pk_device: "635",
+fk_devicetype: "2",
+name: "Bressanone - Villa Adele - Via Stazione",
+lat: "46.71126",
+lon: "11.650398",
+fk_region: "17"
+},
+{
+pk_device: "636",
+fk_devicetype: "2",
+name: "Brunico - Parcheggio Goethe",
+lat: "46.79695",
+lon: "11.942535",
+fk_region: "17"
+},
+{
+pk_device: "637",
+fk_devicetype: "2",
+name: "Vipiteno - Via Josef Hirn",
+lat: "46.893787",
+lon: "11.424028",
+fk_region: "17"
+},
+{
+pk_device: "638",
+fk_devicetype: "2",
+name: "Renon - Corno di Renon / Grünwald",
+lat: "46.576775",
+lon: "11.443915",
+fk_region: "17"
+},
+{
+pk_device: "639",
+fk_devicetype: "2",
+name: "Laces - Via Stazione",
+lat: "46.61868",
+lon: "10.857528",
+fk_region: "17"
+},
+{
+pk_device: "640",
+fk_devicetype: "2",
+name: "Laives - Via Galizia",
+lat: "46.429516",
+lon: "11.338303",
+fk_region: "17"
+},
+{
+pk_device: "641",
+fk_devicetype: "2",
+name: "Cortina ssdV - Strada del Vino",
+lat: "46.268105",
+lon: "11.221353",
+fk_region: "17"
+},
+{
+pk_device: "642",
+fk_devicetype: "2",
+name: "Autostrada Sud - Egna",
+lat: "46.31551",
+lon: "11.262039",
+fk_region: "17"
+}
+]
